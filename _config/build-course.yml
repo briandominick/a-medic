@@ -1,0 +1,29 @@
+- action: migrate
+  source: src
+  target: build
+  options:
+    inclusive: false
+- action: migrate
+  source: lib/deck.js
+  target: build
+- action: parse
+  data: _data/medic-training-2017-10-nyc.csv
+  builds:
+  - template: _templates/liquid/outline-index.asciidoc
+    output: build/index-outline.adoc
+  - template: _templates/liquid/handbook-index.asciidoc
+    output: build/index-handbook.adoc
+  - template: _templates/liquid/slides-index.asciidoc
+    output: build/index-slides.adoc
+- action: render
+  source: build/index-outline.adoc
+  data: _config/asciidoctor.yml
+  builds:
+    - output: build/index-outline.pdf
+      theme: theme/pdf-theme.yml
+- action: render
+  source: build/index-handbook.adoc
+  data: _config/asciidoctor.yml
+  builds:
+    - output: build/handbook.pdf
+      theme: theme/pdf-theme.yml
