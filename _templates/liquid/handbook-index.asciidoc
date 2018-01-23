@@ -1,0 +1,13 @@
+= 20-Hour Street Medic Course: Student Companion Book
+:toc:
+:doctype: book
+:icons: font
+{% for mod in data %}
+{% if mod['token'] %}{% if mod['in_book'] == "TRUE" %}
+// tag::module_{{mod.token}}[]
+include::modules/slides/{{mod.token}}.adoc[lines=1,leveloffset=+1]
+{% for i in (1..10) %}
+include::modules/slides/{{mod.token}}.adoc[tags="slide-{{i}}"]
+{% endfor %}
+// end::module_{{mod.token}}[]
+{% endif %}{% endif %}{% endfor %}

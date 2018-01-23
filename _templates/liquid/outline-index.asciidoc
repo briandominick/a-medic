@@ -1,0 +1,24 @@
+= 20-Hour Street Medic Course: Training Outline/Instructor Guide
+:toc:
+:doctype: book
+:icons: font
+{% for mod in data %}{% if mod['module'] == 'DAY ONE' or mod['module'] == 'DAY TWO' or mod['module'] == 'DAY THREE' %}
+= {{mod.module}}{% endif %}{% if mod['token'] %}
+// tag::module_{{mod.token}}[]
+:duration: {{ mod.duration }}
+:starttime: {{ mod.starttime }}
+:endtime: {{ mod.endtime }}
+:instructors: {{ mod.instructors }}
+:module: {{ mod.module }}
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/{{mod.token}}.adoc[lines=1,leveloffset=+1]
+endif::[]
+{% for i in (1..10) %}
+****
+include::modules/slides/{{mod.token}}.adoc[tags="slide-{{i}}"]
+****{% endfor %}
+// end::module_{{mod.token}}[]
+{% endif %}{% endfor %}

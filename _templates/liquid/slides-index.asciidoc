@@ -1,0 +1,24 @@
+= 20-Hour Street Medic Course
+
+:backend: deckjs
+:deckjs_theme: swiss
+:deckjs_transition: fade
+:customcss: theme/css/asciidoctor.css
+:stylesdir: theme/css/
+:stylesheet: asciidoctor.css
+:imagesdir: assets/images
+:leveloffset: 1
+:icons: font
+:iconfont-cdn: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.1.0/css/font-awesome.min.css
+:split:
+{% for mod in data %}{% if mod['token'] %}{% if mod['in_deck'] == "TRUE" %}
+:duration: {{ mod.duration }}
+:starttime: {{ mod.starttime }}
+:endtime: {{ mod.endtime }}
+:instructors: {{ mod.instructors }}
+:module: {{ mod.module }}
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/{{mod['token']}}.adoc[]
+{% endif %}{% endif %}{% endfor %}
