@@ -1,0 +1,14 @@
+= NOTICE of Third party Software
+
+This codebase contains code from some third-party projects.
+
+Slideshows are generated using *Deck.js*, which is shared under the link:https://github.com/imakewebthings/deck.js/blob/master/MIT-license.txt[MIT License].
+link:http://imakewebthings.com/deck.js/[http://imakewebthings.com/deck.js/].
+
+Deck.js in turn uses *link:http://jquery.com[jQuery]* (MIT License) and link:http://modernizr.com[Modernizr] (MIT License) as dependencies.
+
+The open-source tool link:http://asciidoctor.org[Asciidoctor], an AsciiDoc rendering engine (and so much more) is an external dependency used to build final docs, but I note it here just because it is so badass.
+I must however note that our default PDF theme is an adaptation of link:https://github.com/asciidoctor/asciidoctor-pdf/blob/master/data/themes/base-theme.yml[Asciidoctor-authored content] (MIT License).
+
+Content such as images is shared under Fair Use doctrine.
+A-MEDIC is a totally noncommercial public interest project.
