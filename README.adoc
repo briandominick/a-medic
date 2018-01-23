@@ -1,0 +1,124 @@
+= Street Medic Training Outline
+
+This repository contains a generic outline for a 20-hour street medic training.
+The outline is being developed as open-source content, written in a lightweight markup language (AsciiDoc) in a GitHub repository, so it may be forked and modified for adoption and use by others.
+
+== Download the Latest
+
+The latest PDF of the _complete outline_ and the _complete slide deck_ will always be available here -- no special technical skills or software necessary.
+
+== Build Your Own
+
+This repository contains a text outline for a 20-hour training, as well as the content for an accompanying slide presentation, which are all displayed on and distributed via a website also sourced in this repo.
+You are welcome to modify the source code however you see fit (for content, style, or both).
+You may then rebuild the PDF and HTML output to reflect your changes.
+
+You can even distribute your output however you see fit, so long as you continue to make it freely available under the same license and always link back to this origin.
+
+=== Build Instructions
+
+These steps are for constructing your own version of the course content from source files, which you are welcome to edit first.
+
+[NOTE]
+--
+The codex build procedure requires the Ruby runtime environment.
+If you're on a *Mac OSX or Linux* system, you likely have an appropriate version of Ruby installed.
+
+For *Windows*, download and run link:http://rubyinstaller.org/[RubyInstaller].
+--
+
+. Get the files.
+.. If you are familiar with Git, you should fork this repository on GitHub and clone it.
+.. If you are not familiar with Git and want to work with other or no source control, download the zip archive.
+
+. Open your favorite terminal application (link:https://www.lifewire.com/how-to-open-command-prompt-2618089[Windows instructions], link:http://www.wikihow.com/Get-to-the-Command-Line-on-a-Mac[Mac instructions]).
+
+. Run Bundler's install command to establish local Ruby gem dependencies.
++
+----
+bundle install
+----
++
+If an error message indicates that Bundler is not installed, run `gem install bundler`, then repeat this step.
+Bundler is a package manager for Ruby gems; it will ensure you always have the right dependencies installed.
+
+. Build the PDFs.
++
+----
+bundle exec liquidoc -c _configs/build-course.yml
+----
+
+. Run a test build of the slide deck.
++
+----
+bundle exec asciidoctor -T _templates/haml build/index-deck.adoc
+----
++
+If source files have been edited, always run the previous (`bundle exec liquidoc`) command before rebuilding the slide deck.
+
+=== Managing a Training Agenda in the Cloud
+
+The index files for the training outline and the slide deck alike are themselves derived from a single source file.
+This is a comma-separated values (CSV) flat file (`medic-training-2017-10-nyc.csv`) which has been exported from Google Sheets, where it is managed by instructors during an ongoing trainer.
+
+The Liquidoc tool uses a liquid template to extrapolate the module order from the exported CSV file.
+
+The advantage of this system is providing a user-friendly, graphical interface for quickly rearranging the order in which modules are taught.
+The system requires some setup, but once in place, teachers with minimal technical skill can reorder training agendas on the fly.
+
+. Make a copy of the https://docs.google.com/spreadsheets/d/1lOhJwa0CaE_tjLsdtL41L7HotogqiPkh0wBsOejYkXc/edit?usp=sharing[Google Sheet] in your own Google Drive account.
+
+. Alter the order or the duration of any module, or of course remove it altogether (best accomplished by cutting and pasting into another tab).
++
+[NOTE]
+When reordering modules, you will need to force Sheets to recalculate.
+This is done by copying an untouched cell higher up in the *starttime* column and pasting it over its counterpart in any altered rows.
+For example, if you swap the order of Rows 4 and 5, copy *starttime* cell for Row 3 and paste it simultaneously over that column's cells for Rows 4 and 5.
+This will instigate a recalculation.
+
+. Download the spreadsheet as a CSV file.
++
+*File > Download As > Comma Separated Values*
++
+[NOTE]
+Be sure you overwrite the existing file in the *Save As* dialog.
+This is the file that is cited in the first `parse` action of the `_config/build-course.yml` file (`_data/medic-training-2017-10-nyc.csv` by default).
+
+. Rebuild the training materials (including slideshow) using the `liquidoc` and `asciidoctor` commands.
+
+=== Fork Your Own
+
+Making your own copy of A-MEDIC is easy.
+Just fork it on GitHub so you have a full repository copy in your account.
+You can edit files in the GitHub interface or clone your forked repo locally and edit the files with your favorite text/code editor.
+
+=== Contribute & Stay in Sync
+
+When you make changes, such as adding or editing content, you can optionally contribute those changes back to the prime repository.
+If your changes are approved, they may become canon.
+
+Alternatively, you can *maintain an altered fork that still keeps in-sync with the prime repository* and can easily adopt changes made to any material you have not intentionally modified.
+
+That was a mouthful, so allow me to explain.
+Let's say you teach one module differently, but the rest of your training corresponds to this outline perfectly.
+You may fork the source files, edit the file for the module in question, and then keep all the other files in sync through a manual procedure.
+This way, when the canonical (prime) repo changes, you'll be able to see the changes and accept them on a case by case basis.
+You will effectively adopt those you like while always protecting any “local” edits you've made so they don't get overwritten by the prime source.
+
+== Legal
+
+Here is the legal stuff that makes it possible to share this material with you.
+
+=== Disclaimer
+
+*This material is expressly provided as a teaching aid and in no way should be used in the absence of qualified, first-hand instruction.*
+DO NOT USE this information as source material for first aid instruction unless you are qualified to INSTRUCT this material, or as supplementary content provided alongside a qualified course of street medic training.
+
+[NOTE]
+This content may have been altered from its course material.
+The original authors do not endorse forked editions of this course, and we encourage all who modify this material to be responsible for the alterations they make.
+The canonical material is maintained at link:http://github.com/briandominick/a-medic[http://github.com/briandominick/a-medic].
+
+=== License
+
+All of the content herein is covered by a Creative Commons ShareAlike 4.0 license, but we urge professional caution when using these materials.
