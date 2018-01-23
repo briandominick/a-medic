@@ -1,0 +1,84 @@
+= Street Medic Gear
+// tag::slide-1[]
+Basic first aid supplies::
+
+* [ ] water (and extra containers)
+* [ ] roller gauze
+* [ ] gauze pads (assorted)
+* [ ] bandaids (assorted)
+* [ ] Tagaderm strips
+* [ ] SAM splint / wire splint
+* [ ] wrapping supplies like Ace bandages
+* [ ] burn treatment pads/gel
+* [ ] instant ice packs
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Basic street medic gear::
+
+* [ ] cell phone
+* [ ] red duct tape
+* [ ] nitrile exam gloves
+* [ ] trauma sheers
+* [ ] medical tape
+* [ ] street medic designation insignia
+* [ ] more gloves
+* [ ] energy bars / gel
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Advanced first aid supplies::
+
+* [ ] CPR face mask/shield
+* [ ] airway adjuncts
+* [ ] pen light
+* [ ] tourniquet
+* [ ] valved/occlusive dressing
+* [ ] epipen
+* [ ] skin adhesive
+* [ ] LAW
+** small bottle for drops, swabs, mouthwash
+// end::slide-3[]
+
+<<<
+
+// tag::slide-3[]
+Personal protective equipment (PPE)::
+
+* [ ] gas mask
+** must be military grade
+
+* [ ] respirator
+** must filter particulate and organic irritants
+
+* [ ] swim-goggles
+** good seal, silocone not foam
+
+* [ ] bandana
+** soaking with apple cider vinegar filters tear gas
+** dust mask underneath recommended
+
+* [ ] helmet
+** military or construction grade
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Street medic attire::
+
+* Dress for patient trust.
+* Dress for “authority drag”.
+
+[TIP.mini]
+There is no uniform or hard/fast rule to attire other than exhibiting best practices in coverage, preferred fabric, and reliable footwear.
+But balance not looking like a cop with not looking like you don't bathe.
+
+[TIP.mini]
+Military gas masks look pretty intimidating.
+
+// end::slide-4[]

@@ -1,0 +1,18 @@
+= Initial Assessment Challenge Builder
+// tag::stop[]
+. S T O P
+// end::stop[]
+// tag::stop-safe[]
+* The scene is safe to enter.
+// end::stop-safe[]
+// tag::stop-unsafe[]
+* The scene is not safe to enter.
+// tag::stop-unsafe[]
+// tag::consent[]
+* The scene
+. Introduce yourself.
+. Get consent.
+//
+** The patient is A&Ox3 and consents.
+
+// tag::smmab[]

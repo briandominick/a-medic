@@ -1,0 +1,6 @@
+= Instructors Meeting
+
+.Slide
+****
+include::{slidesdir}/instructors-meeting-30.adoc[tags='slide-01']
+****

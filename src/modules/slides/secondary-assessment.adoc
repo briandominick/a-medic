@@ -1,0 +1,56 @@
+= Secondary Assessment
+// tag::slide-1[]
+
+After initial assessment is complete and life-saving interventions administered, it's time for a secondary assessment.
+
+Purpose::
+
+* Help catch factors that may inform your assessment or care.
+* Gather information that may be helpful to further providers should conditions change, such as patient loses consciousness.
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+
+If your patient is alert, gather a *focused medical history*.
+
+include::../includes/s-a-m-p-l-e.adoc[]
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Focused trauma assessment::
+
+Head-to-toe exams are administered whenever the mechanism of injury (MOI) suggests there may be injuries or signs you have missed.
+
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+[IMPORTANT.mini.black]
+Check for consent for focused assessments, even if the patient already consented to initial assessment.
+
+[CAUTION.mini]
+Can I ask you some more questions about your medical history and what's going on?
+
+[CAUTION.mini]
+Is it okay if I examine you some more to make sure there's nothing we're missing?
+
+[IMPORTANT.black.mini]
+Explain what you're doing as you go!
+
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Your unresponsive trauma patient...::
+
+* is already in C-spine stabilization, right?
+* needs a head to toe blood sweep to see if undetected blood loss is collected in clothing or the ground.
+// end::slide-5[]

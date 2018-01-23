@@ -1,0 +1,6 @@
+= Day 3 Opening
+
+.Slide
+****
+include::{slidesdir}/day-3-opening.adoc[tags='slide-01']
+****

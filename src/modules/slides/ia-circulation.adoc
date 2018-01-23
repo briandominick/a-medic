@@ -1,0 +1,82 @@
+= Circulation
+// tag::slide-1[]
+[%step]
+--
+Pulse::
+
+. Does the patient have a pulse?
+** If they're breathing:
+*** They have a pulse!
+** If someone is breathing for them:
+*** Check for a pulse.
+
+[IMPORTANT.red]
+Lack of pulse.
+
+--
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Bleeding::
+
+. Is the patient bleeding severely?
+** This is also usually obvious.
+** Sweep unconscious patients.
+. Has the patient lost a lot of blood?
+.. Check their pulse.
+.. Check their perfusion.
+.. Check their clothing, surroundings.
+
+[IMPORTANT.mini]
+Severe bleeding or recent severe blood loss.
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+DEMO: Blood sweep::
+
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Intervention: Severe bleeding control::
+
+* Apply direct pressure to wound site.
+* Conditions for tourniquet:
+** arm/leg amputations
+** massive arterial bleeding in a limb
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Signs/symptoms of hypovolemic shock::
+
+* Skin: pale, cold, “clammy”
+*	Pulse: rapid, weak
+*	Breathing: rapid, shallow
+*	Dizziness, weakness
+*	Confusion, changing consciousness
+// endß::slide-05[]
+
+<<<
+
+// tag::slide-6[]
+Intervention: Severe blood loss (shock)::
+
+* Call 911!
+* Lay the patient down.
+* Make them comfortable.
+** Fluids are good.
+** Warmth is good.
+
+[IMPORTANT.mini.red]
+Shock kills! Any patient in shock must receive hospital care.
+
+// end::slide-6[]

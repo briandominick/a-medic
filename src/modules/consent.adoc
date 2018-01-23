@@ -1,0 +1,6 @@
+= Consent
+
+.Slide
+****
+include::{slidesdir}/consent.adoc[tags='slide-01']
+****

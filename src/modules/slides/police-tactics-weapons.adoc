@@ -1,0 +1,58 @@
+= Police Tactics & Weapons
+// tag::slide-1[]
+[WARNING]
+Images of cops and other rightwing bullies ahead.
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+.NYPD supervisor with “tonfa” side-handle baton
+image::police-baton.png[width=600]
+// end::slide-2[]
+<<<
+// tag::slide-3[]
+.Sniper rifle in Ferguson
+image::police-sniper-rifle.jpg[width=600]
+<<<
+.Officer “Gofuckyourself”, Ferguson
+image::police-officer-gofuckyourself.jpg[width=600]
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+.Less lethal 12-gauge shotgun
+image::police-shotgun.jpg[width=600]
+<<<
+.Plastic bullet wound
+image::police-plastic-bullet-wound.png[width=600]
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+.Militarized police horses
+image::police-horses-group.jpg[width=600]
+<<<
+.Protesters frighten police horses (Albequerque, 2017)
+image::police-horses-protesters.jpg[width=600]
+// end::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+.‘3-percenter’ militiamen protect Nazis/Confederates (Charlottesville, 2017)
+image::nazis-armed-charlottesville.jpg[width=600]
+<<<
+.Jewish Defense League thugs beat Palestinian (DC, 2017)
+image::jdl-beating-screenshot.jpg[width=600]
+// end::slide-6[]
+
+<<<
+
+// tag::slide-7[]
+.Grenade launcher in action (Ferguson, 2015)
+image::police-grenade-launcher-firing.jpg[width=600]
+// end::slide-7[]

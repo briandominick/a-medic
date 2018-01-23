@@ -1,0 +1,2798 @@
+= 20-Hour Street Medic Course: Training Outline/Instructor Guide
+:toc:
+:doctype: book
+:icons: font
+
+= DAY ONE
+// tag::module_intro-welcome[]
+:duration: 10
+:starttime: 6:10 PM
+:endtime: 6:20 PM
+:instructors: Miriam/Brian
+:module: Training Welcome
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/intro-welcome.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/intro-welcome.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/intro-welcome.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/intro-welcome.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/intro-welcome.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/intro-welcome.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/intro-welcome.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/intro-welcome.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/intro-welcome.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/intro-welcome.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/intro-welcome.adoc[tags="slide-10"]
+****
+// end::module_intro-welcome[]
+
+// tag::module_intro-people[]
+:duration: 25
+:starttime: 6:20 PM
+:endtime: 6:45 PM
+:instructors: Miriam/Brian
+:module: People Intro
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/intro-people.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/intro-people.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/intro-people.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/intro-people.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/intro-people.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/intro-people.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/intro-people.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/intro-people.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/intro-people.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/intro-people.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/intro-people.adoc[tags="slide-10"]
+****
+// end::module_intro-people[]
+
+// tag::module_intro-action-medical[]
+:duration: 10
+:starttime: 6:45 PM
+:endtime: 6:55 PM
+:instructors: Miriam
+:module: Action Medical Intro
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/intro-action-medical.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/intro-action-medical.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/intro-action-medical.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/intro-action-medical.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/intro-action-medical.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/intro-action-medical.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/intro-action-medical.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/intro-action-medical.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/intro-action-medical.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/intro-action-medical.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/intro-action-medical.adoc[tags="slide-10"]
+****
+// end::module_intro-action-medical[]
+
+// tag::module_intro-first-aid[]
+:duration: 10
+:starttime: 6:55 PM
+:endtime: 7:05 PM
+:instructors: Diana
+:module: First Aid Intro
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/intro-first-aid.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/intro-first-aid.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/intro-first-aid.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/intro-first-aid.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/intro-first-aid.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/intro-first-aid.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/intro-first-aid.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/intro-first-aid.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/intro-first-aid.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/intro-first-aid.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/intro-first-aid.adoc[tags="slide-10"]
+****
+// end::module_intro-first-aid[]
+
+// tag::module_street-medic-ops-intro[]
+:duration: 15
+:starttime: 7:05 PM
+:endtime: 7:20 PM
+:instructors: Miriam
+:module: Street Medic Ops Intro
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/street-medic-ops-intro.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/street-medic-ops-intro.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/street-medic-ops-intro.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/street-medic-ops-intro.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/street-medic-ops-intro.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/street-medic-ops-intro.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/street-medic-ops-intro.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/street-medic-ops-intro.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/street-medic-ops-intro.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/street-medic-ops-intro.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/street-medic-ops-intro.adoc[tags="slide-10"]
+****
+// end::module_street-medic-ops-intro[]
+
+// tag::module_scene-assessment[]
+:duration: 15
+:starttime: 7:20 PM
+:endtime: 7:35 PM
+:instructors: Miriam
+:module: Scene Assessment
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/scene-assessment.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/scene-assessment.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/scene-assessment.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/scene-assessment.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/scene-assessment.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/scene-assessment.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/scene-assessment.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/scene-assessment.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/scene-assessment.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/scene-assessment.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/scene-assessment.adoc[tags="slide-10"]
+****
+// end::module_scene-assessment[]
+
+// tag::module_practical-scene-assessment[]
+:duration: 15
+:starttime: 7:35 PM
+:endtime: 7:50 PM
+:instructors: 
+:module: Practical: Scene Assessment
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/practical-scene-assessment.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/practical-scene-assessment.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/practical-scene-assessment.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/practical-scene-assessment.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/practical-scene-assessment.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/practical-scene-assessment.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/practical-scene-assessment.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/practical-scene-assessment.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/practical-scene-assessment.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/practical-scene-assessment.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/practical-scene-assessment.adoc[tags="slide-10"]
+****
+// end::module_practical-scene-assessment[]
+
+// tag::module_break[]
+:duration: 10
+:starttime: 7:50 PM
+:endtime: 8:00 PM
+:instructors: 
+:module: Break
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/break.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/break.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-10"]
+****
+// end::module_break[]
+
+// tag::module_consent[]
+:duration: 15
+:starttime: 8:00 PM
+:endtime: 8:15 PM
+:instructors: Diana
+:module: Consent
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/consent.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/consent.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/consent.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/consent.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/consent.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/consent.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/consent.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/consent.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/consent.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/consent.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/consent.adoc[tags="slide-10"]
+****
+// end::module_consent[]
+
+// tag::module_practical-consent[]
+:duration: 10
+:starttime: 8:15 PM
+:endtime: 8:25 PM
+:instructors: 
+:module: Practical: Consent
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/practical-consent.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/practical-consent.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/practical-consent.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/practical-consent.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/practical-consent.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/practical-consent.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/practical-consent.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/practical-consent.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/practical-consent.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/practical-consent.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/practical-consent.adoc[tags="slide-10"]
+****
+// end::module_practical-consent[]
+
+// tag::module_body-substance-isolation[]
+:duration: 5
+:starttime: 8:25 PM
+:endtime: 8:30 PM
+:instructors: Janet
+:module: Body Substance Isolation
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/body-substance-isolation.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/body-substance-isolation.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/body-substance-isolation.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/body-substance-isolation.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/body-substance-isolation.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/body-substance-isolation.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/body-substance-isolation.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/body-substance-isolation.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/body-substance-isolation.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/body-substance-isolation.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/body-substance-isolation.adoc[tags="slide-10"]
+****
+// end::module_body-substance-isolation[]
+
+// tag::module_practical-bsi[]
+:duration: 5
+:starttime: 8:30 PM
+:endtime: 8:35 PM
+:instructors: 
+:module: Practical: BSI
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/practical-bsi.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/practical-bsi.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/practical-bsi.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/practical-bsi.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/practical-bsi.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/practical-bsi.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/practical-bsi.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/practical-bsi.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/practical-bsi.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/practical-bsi.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/practical-bsi.adoc[tags="slide-10"]
+****
+// end::module_practical-bsi[]
+
+// tag::module_ia-initial-assessment-intro[]
+:duration: 10
+:starttime: 8:35 PM
+:endtime: 8:45 PM
+:instructors: Brian
+:module: Initial Assessment Intro
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/ia-initial-assessment-intro.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/ia-initial-assessment-intro.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/ia-initial-assessment-intro.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/ia-initial-assessment-intro.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/ia-initial-assessment-intro.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/ia-initial-assessment-intro.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/ia-initial-assessment-intro.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/ia-initial-assessment-intro.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/ia-initial-assessment-intro.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/ia-initial-assessment-intro.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/ia-initial-assessment-intro.adoc[tags="slide-10"]
+****
+// end::module_ia-initial-assessment-intro[]
+
+// tag::module_ia-mechanism-of-injury[]
+:duration: 10
+:starttime: 8:45 PM
+:endtime: 8:55 PM
+:instructors: Diana
+:module: IA Mechanism of Injury
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/ia-mechanism-of-injury.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/ia-mechanism-of-injury.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/ia-mechanism-of-injury.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/ia-mechanism-of-injury.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/ia-mechanism-of-injury.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/ia-mechanism-of-injury.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/ia-mechanism-of-injury.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/ia-mechanism-of-injury.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/ia-mechanism-of-injury.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/ia-mechanism-of-injury.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/ia-mechanism-of-injury.adoc[tags="slide-10"]
+****
+// end::module_ia-mechanism-of-injury[]
+
+// tag::module_practical-c-spine[]
+:duration: 15
+:starttime: 8:55 PM
+:endtime: 9:10 PM
+:instructors: Diana
+:module: Practical: C-Spine
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/practical-c-spine.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/practical-c-spine.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/practical-c-spine.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/practical-c-spine.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/practical-c-spine.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/practical-c-spine.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/practical-c-spine.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/practical-c-spine.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/practical-c-spine.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/practical-c-spine.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/practical-c-spine.adoc[tags="slide-10"]
+****
+// end::module_practical-c-spine[]
+
+// tag::module_ia-mental-status[]
+:duration: 10
+:starttime: 9:10 PM
+:endtime: 9:20 PM
+:instructors: Janet
+:module: IA Mental Status
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/ia-mental-status.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/ia-mental-status.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/ia-mental-status.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/ia-mental-status.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/ia-mental-status.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/ia-mental-status.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/ia-mental-status.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/ia-mental-status.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/ia-mental-status.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/ia-mental-status.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/ia-mental-status.adoc[tags="slide-10"]
+****
+// end::module_ia-mental-status[]
+
+// tag::module_practical-mental-status[]
+:duration: 15
+:starttime: 9:20 PM
+:endtime: 9:35 PM
+:instructors: 
+:module: Practical: Mental Status
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/practical-mental-status.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/practical-mental-status.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/practical-mental-status.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/practical-mental-status.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/practical-mental-status.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/practical-mental-status.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/practical-mental-status.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/practical-mental-status.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/practical-mental-status.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/practical-mental-status.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/practical-mental-status.adoc[tags="slide-10"]
+****
+// end::module_practical-mental-status[]
+
+// tag::module_jail-jail-support[]
+:duration: 15
+:starttime: 9:35 PM
+:endtime: 9:50 PM
+:instructors: Miriam
+:module: Jail & Jail Support
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/jail-jail-support.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/jail-jail-support.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/jail-jail-support.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/jail-jail-support.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/jail-jail-support.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/jail-jail-support.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/jail-jail-support.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/jail-jail-support.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/jail-jail-support.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/jail-jail-support.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/jail-jail-support.adoc[tags="slide-10"]
+****
+// end::module_jail-jail-support[]
+
+// tag::module_day-1-wrapup[]
+:duration: 10
+:starttime: 9:50 PM
+:endtime: 10:00 PM
+:instructors: Miriam/Brian
+:module: Day 1 Wrapup
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/day-1-wrapup.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/day-1-wrapup.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/day-1-wrapup.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/day-1-wrapup.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/day-1-wrapup.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/day-1-wrapup.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/day-1-wrapup.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/day-1-wrapup.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/day-1-wrapup.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/day-1-wrapup.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/day-1-wrapup.adoc[tags="slide-10"]
+****
+// end::module_day-1-wrapup[]
+
+= DAY TWO
+// tag::module_day-2-opening[]
+:duration: 15
+:starttime: 9:15 AM
+:endtime: 9:30 AM
+:instructors: Miriam/Brian
+:module: Day 2 Opening
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/day-2-opening.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/day-2-opening.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/day-2-opening.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/day-2-opening.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/day-2-opening.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/day-2-opening.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/day-2-opening.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/day-2-opening.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/day-2-opening.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/day-2-opening.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/day-2-opening.adoc[tags="slide-10"]
+****
+// end::module_day-2-opening[]
+
+// tag::module_ia-airway[]
+:duration: 25
+:starttime: 9:30 AM
+:endtime: 9:55 AM
+:instructors: Kenny
+:module: IA Airway
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/ia-airway.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/ia-airway.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/ia-airway.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/ia-airway.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/ia-airway.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/ia-airway.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/ia-airway.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/ia-airway.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/ia-airway.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/ia-airway.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/ia-airway.adoc[tags="slide-10"]
+****
+// end::module_ia-airway[]
+
+// tag::module_ia-breathing[]
+:duration: 10
+:starttime: 9:55 AM
+:endtime: 10:05 AM
+:instructors: Kenny
+:module: IA Breathing
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/ia-breathing.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/ia-breathing.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/ia-breathing.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/ia-breathing.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/ia-breathing.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/ia-breathing.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/ia-breathing.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/ia-breathing.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/ia-breathing.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/ia-breathing.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/ia-breathing.adoc[tags="slide-10"]
+****
+// end::module_ia-breathing[]
+
+// tag::module_practical-airway-breathing-check[]
+:duration: 20
+:starttime: 10:05 AM
+:endtime: 10:25 AM
+:instructors: Diana
+:module: Practical: Airway & Breathing Check
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/practical-airway-breathing-check.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/practical-airway-breathing-check.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/practical-airway-breathing-check.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/practical-airway-breathing-check.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/practical-airway-breathing-check.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/practical-airway-breathing-check.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/practical-airway-breathing-check.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/practical-airway-breathing-check.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/practical-airway-breathing-check.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/practical-airway-breathing-check.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/practical-airway-breathing-check.adoc[tags="slide-10"]
+****
+// end::module_practical-airway-breathing-check[]
+
+// tag::module_break[]
+:duration: 15
+:starttime: 10:25 AM
+:endtime: 10:40 AM
+:instructors: 
+:module: Break
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/break.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/break.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-10"]
+****
+// end::module_break[]
+
+// tag::module_ia-circulation[]
+:duration: 40
+:starttime: 10:40 AM
+:endtime: 11:20 AM
+:instructors: Kenny
+:module: IA Circulation
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/ia-circulation.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/ia-circulation.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/ia-circulation.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/ia-circulation.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/ia-circulation.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/ia-circulation.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/ia-circulation.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/ia-circulation.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/ia-circulation.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/ia-circulation.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/ia-circulation.adoc[tags="slide-10"]
+****
+// end::module_ia-circulation[]
+
+// tag::module_ia-disability-environment[]
+:duration: 10
+:starttime: 11:20 AM
+:endtime: 11:30 AM
+:instructors: Brian
+:module: IA Disability & Environment
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/ia-disability-environment.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/ia-disability-environment.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/ia-disability-environment.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/ia-disability-environment.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/ia-disability-environment.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/ia-disability-environment.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/ia-disability-environment.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/ia-disability-environment.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/ia-disability-environment.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/ia-disability-environment.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/ia-disability-environment.adoc[tags="slide-10"]
+****
+// end::module_ia-disability-environment[]
+
+// tag::module_practical-lifts-carries[]
+:duration: 20
+:starttime: 11:30 AM
+:endtime: 11:50 AM
+:instructors: Brian
+:module: Practical: Lifts & Carries
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/practical-lifts-carries.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/practical-lifts-carries.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/practical-lifts-carries.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/practical-lifts-carries.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/practical-lifts-carries.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/practical-lifts-carries.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/practical-lifts-carries.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/practical-lifts-carries.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/practical-lifts-carries.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/practical-lifts-carries.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/practical-lifts-carries.adoc[tags="slide-10"]
+****
+// end::module_practical-lifts-carries[]
+
+// tag::module_break[]
+:duration: 50
+:starttime: 11:50 AM
+:endtime: 12:40 PM
+:instructors: 
+:module: Break - Lunch
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/break.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/break.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-10"]
+****
+// end::module_break[]
+
+// tag::module_secondary-assessment[]
+:duration: 25
+:starttime: 12:40 PM
+:endtime: 1:05 PM
+:instructors: Kenny
+:module: Secondary Assessment
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/secondary-assessment.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/secondary-assessment.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/secondary-assessment.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/secondary-assessment.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/secondary-assessment.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/secondary-assessment.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/secondary-assessment.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/secondary-assessment.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/secondary-assessment.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/secondary-assessment.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/secondary-assessment.adoc[tags="slide-10"]
+****
+// end::module_secondary-assessment[]
+
+// tag::module_scenario-assessment-posts[]
+:duration: 40
+:starttime: 1:05 PM
+:endtime: 1:45 PM
+:instructors: Miriam/Brian
+:module: Scenario (Assessment Posts)
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/scenario-assessment-posts.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/scenario-assessment-posts.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/scenario-assessment-posts.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/scenario-assessment-posts.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/scenario-assessment-posts.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/scenario-assessment-posts.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/scenario-assessment-posts.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/scenario-assessment-posts.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/scenario-assessment-posts.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/scenario-assessment-posts.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/scenario-assessment-posts.adoc[tags="slide-10"]
+****
+// end::module_scenario-assessment-posts[]
+
+// tag::module_bleeding-shock[]
+:duration: 30
+:starttime: 1:45 PM
+:endtime: 2:15 PM
+:instructors: Mel
+:module: Bleeding & Shock
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/bleeding-shock.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/bleeding-shock.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/bleeding-shock.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/bleeding-shock.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/bleeding-shock.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/bleeding-shock.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/bleeding-shock.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/bleeding-shock.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/bleeding-shock.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/bleeding-shock.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/bleeding-shock.adoc[tags="slide-10"]
+****
+// end::module_bleeding-shock[]
+
+// tag::module_practical-bleeding-shock[]
+:duration: 20
+:starttime: 2:15 PM
+:endtime: 2:35 PM
+:instructors: 
+:module: Practical: Bleeding & Shock
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/practical-bleeding-shock.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/practical-bleeding-shock.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/practical-bleeding-shock.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/practical-bleeding-shock.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/practical-bleeding-shock.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/practical-bleeding-shock.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/practical-bleeding-shock.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/practical-bleeding-shock.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/practical-bleeding-shock.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/practical-bleeding-shock.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/practical-bleeding-shock.adoc[tags="slide-10"]
+****
+// end::module_practical-bleeding-shock[]
+
+// tag::module_injuries-soft-tissue[]
+:duration: 20
+:starttime: 2:35 PM
+:endtime: 2:55 PM
+:instructors: Miriam
+:module: Soft Tissue Injuries
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/injuries-soft-tissue.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/injuries-soft-tissue.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/injuries-soft-tissue.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/injuries-soft-tissue.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/injuries-soft-tissue.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/injuries-soft-tissue.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/injuries-soft-tissue.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/injuries-soft-tissue.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/injuries-soft-tissue.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/injuries-soft-tissue.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/injuries-soft-tissue.adoc[tags="slide-10"]
+****
+// end::module_injuries-soft-tissue[]
+
+// tag::module_injuries-head[]
+:duration: 15
+:starttime: 2:55 PM
+:endtime: 3:10 PM
+:instructors: Diana
+:module: Head Injuries
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/injuries-head.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/injuries-head.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/injuries-head.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/injuries-head.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/injuries-head.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/injuries-head.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/injuries-head.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/injuries-head.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/injuries-head.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/injuries-head.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/injuries-head.adoc[tags="slide-10"]
+****
+// end::module_injuries-head[]
+
+// tag::module_break[]
+:duration: 10
+:starttime: 3:10 PM
+:endtime: 3:20 PM
+:instructors: 
+:module: Break
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/break.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/break.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-10"]
+****
+// end::module_break[]
+
+// tag::module_weather-ailments-hot[]
+:duration: 10
+:starttime: 3:20 PM
+:endtime: 3:30 PM
+:instructors: Diana
+:module: Hot Weather Ailments
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/weather-ailments-hot.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/weather-ailments-hot.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/weather-ailments-hot.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/weather-ailments-hot.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/weather-ailments-hot.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/weather-ailments-hot.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/weather-ailments-hot.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/weather-ailments-hot.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/weather-ailments-hot.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/weather-ailments-hot.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/weather-ailments-hot.adoc[tags="slide-10"]
+****
+// end::module_weather-ailments-hot[]
+
+// tag::module_weather-ailments-cold[]
+:duration: 10
+:starttime: 3:30 PM
+:endtime: 3:40 PM
+:instructors: Diana
+:module: Cold Weather Ailments
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/weather-ailments-cold.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/weather-ailments-cold.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/weather-ailments-cold.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/weather-ailments-cold.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/weather-ailments-cold.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/weather-ailments-cold.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/weather-ailments-cold.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/weather-ailments-cold.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/weather-ailments-cold.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/weather-ailments-cold.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/weather-ailments-cold.adoc[tags="slide-10"]
+****
+// end::module_weather-ailments-cold[]
+
+// tag::module_break[]
+:duration: 5
+:starttime: 3:40 PM
+:endtime: 3:45 PM
+:instructors: 
+:module: Break
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/break.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/break.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-10"]
+****
+// end::module_break[]
+
+// tag::module_scenario-mass-casualties[]
+:duration: 40
+:starttime: 3:45 PM
+:endtime: 4:25 PM
+:instructors: 
+:module: Scenario (Aftermath Round Robin)
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/scenario-mass-casualties.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/scenario-mass-casualties.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/scenario-mass-casualties.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/scenario-mass-casualties.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/scenario-mass-casualties.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/scenario-mass-casualties.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/scenario-mass-casualties.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/scenario-mass-casualties.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/scenario-mass-casualties.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/scenario-mass-casualties.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/scenario-mass-casualties.adoc[tags="slide-10"]
+****
+// end::module_scenario-mass-casualties[]
+
+// tag::module_injuries-musculoskeletal[]
+:duration: 45
+:starttime: 4:25 PM
+:endtime: 5:10 PM
+:instructors: 
+:module: Musculoskeletal Injuries
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/injuries-musculoskeletal.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/injuries-musculoskeletal.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/injuries-musculoskeletal.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/injuries-musculoskeletal.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/injuries-musculoskeletal.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/injuries-musculoskeletal.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/injuries-musculoskeletal.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/injuries-musculoskeletal.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/injuries-musculoskeletal.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/injuries-musculoskeletal.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/injuries-musculoskeletal.adoc[tags="slide-10"]
+****
+// end::module_injuries-musculoskeletal[]
+
+// tag::module_practical-splinting-basic[]
+:duration: 20
+:starttime: 5:10 PM
+:endtime: 5:30 PM
+:instructors: 
+:module: Practical: Basic Splinting
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/practical-splinting-basic.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/practical-splinting-basic.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/practical-splinting-basic.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/practical-splinting-basic.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/practical-splinting-basic.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/practical-splinting-basic.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/practical-splinting-basic.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/practical-splinting-basic.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/practical-splinting-basic.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/practical-splinting-basic.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/practical-splinting-basic.adoc[tags="slide-10"]
+****
+// end::module_practical-splinting-basic[]
+
+// tag::module_police-tactics-weapons[]
+:duration: 25
+:starttime: 5:30 PM
+:endtime: 5:55 PM
+:instructors: Daphne/Brian
+:module: Police Tactics & Weapons
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/police-tactics-weapons.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/police-tactics-weapons.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/police-tactics-weapons.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/police-tactics-weapons.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/police-tactics-weapons.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/police-tactics-weapons.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/police-tactics-weapons.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/police-tactics-weapons.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/police-tactics-weapons.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/police-tactics-weapons.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/police-tactics-weapons.adoc[tags="slide-10"]
+****
+// end::module_police-tactics-weapons[]
+
+// tag::module_chemical-weapons[]
+:duration: 15
+:starttime: 5:55 PM
+:endtime: 6:10 PM
+:instructors: Daphne
+:module: Chemical Weapons
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/chemical-weapons.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/chemical-weapons.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/chemical-weapons.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/chemical-weapons.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/chemical-weapons.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/chemical-weapons.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/chemical-weapons.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/chemical-weapons.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/chemical-weapons.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/chemical-weapons.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/chemical-weapons.adoc[tags="slide-10"]
+****
+// end::module_chemical-weapons[]
+
+// tag::module_practical-eye-flush[]
+:duration: 30
+:starttime: 6:10 PM
+:endtime: 6:40 PM
+:instructors: 
+:module: Practical: Eye Flush
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/practical-eye-flush.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/practical-eye-flush.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/practical-eye-flush.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/practical-eye-flush.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/practical-eye-flush.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/practical-eye-flush.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/practical-eye-flush.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/practical-eye-flush.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/practical-eye-flush.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/practical-eye-flush.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/practical-eye-flush.adoc[tags="slide-10"]
+****
+// end::module_practical-eye-flush[]
+
+// tag::module_day-2-wrapup[]
+:duration: 15
+:starttime: 6:40 PM
+:endtime: 6:55 PM
+:instructors: 
+:module: Day 2 Wrapup
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/day-2-wrapup.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/day-2-wrapup.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/day-2-wrapup.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/day-2-wrapup.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/day-2-wrapup.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/day-2-wrapup.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/day-2-wrapup.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/day-2-wrapup.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/day-2-wrapup.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/day-2-wrapup.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/day-2-wrapup.adoc[tags="slide-10"]
+****
+// end::module_day-2-wrapup[]
+
+= DAY THREE
+// tag::module_day-3-opening[]
+:duration: 5
+:starttime: 1:00 PM
+:endtime: 1:05 PM
+:instructors: 
+:module: Day 3 Opening
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/day-3-opening.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/day-3-opening.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/day-3-opening.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/day-3-opening.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/day-3-opening.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/day-3-opening.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/day-3-opening.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/day-3-opening.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/day-3-opening.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/day-3-opening.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/day-3-opening.adoc[tags="slide-10"]
+****
+// end::module_day-3-opening[]
+
+// tag::module_street-medic-ops-advanced[]
+:duration: 15
+:starttime: 1:00 PM
+:endtime: 1:15 PM
+:instructors: Brian
+:module: Street Medic Ops (Advanced)
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/street-medic-ops-advanced.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/street-medic-ops-advanced.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/street-medic-ops-advanced.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/street-medic-ops-advanced.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/street-medic-ops-advanced.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/street-medic-ops-advanced.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/street-medic-ops-advanced.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/street-medic-ops-advanced.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/street-medic-ops-advanced.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/street-medic-ops-advanced.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/street-medic-ops-advanced.adoc[tags="slide-10"]
+****
+// end::module_street-medic-ops-advanced[]
+
+// tag::module_injuries-special[]
+:duration: 60
+:starttime: 1:05 PM
+:endtime: 2:05 PM
+:instructors: Brian
+:module: Special Injuries
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/injuries-special.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/injuries-special.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/injuries-special.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/injuries-special.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/injuries-special.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/injuries-special.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/injuries-special.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/injuries-special.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/injuries-special.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/injuries-special.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/injuries-special.adoc[tags="slide-10"]
+****
+// end::module_injuries-special[]
+
+// tag::module_mci[]
+:duration: 10
+:starttime: 1:15 PM
+:endtime: 1:25 PM
+:instructors: Brian
+:module: Mass Casualty Incidents
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/mci.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/mci.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/mci.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/mci.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/mci.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/mci.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/mci.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/mci.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/mci.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/mci.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/mci.adoc[tags="slide-10"]
+****
+// end::module_mci[]
+
+// tag::module_scenario-chem-weapons[]
+:duration: 40
+:starttime: 2:05 PM
+:endtime: 2:45 PM
+:instructors: 
+:module: Scenario (Chem Weapons)
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/scenario-chem-weapons.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/scenario-chem-weapons.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/scenario-chem-weapons.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/scenario-chem-weapons.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/scenario-chem-weapons.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/scenario-chem-weapons.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/scenario-chem-weapons.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/scenario-chem-weapons.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/scenario-chem-weapons.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/scenario-chem-weapons.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/scenario-chem-weapons.adoc[tags="slide-10"]
+****
+// end::module_scenario-chem-weapons[]
+
+// tag::module_break[]
+:duration: 20
+:starttime: 2:45 PM
+:endtime: 3:05 PM
+:instructors: 
+:module: Break
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/break.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/break.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-10"]
+****
+// end::module_break[]
+
+// tag::module_medical-respiratory[]
+:duration: 15
+:starttime: 3:05 PM
+:endtime: 3:20 PM
+:instructors: 
+:module: Respiratory Emergencies
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/medical-respiratory.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/medical-respiratory.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/medical-respiratory.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/medical-respiratory.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/medical-respiratory.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/medical-respiratory.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/medical-respiratory.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/medical-respiratory.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/medical-respiratory.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/medical-respiratory.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/medical-respiratory.adoc[tags="slide-10"]
+****
+// end::module_medical-respiratory[]
+
+// tag::module_medical-fainting-seizures[]
+:duration: 20
+:starttime: 3:20 PM
+:endtime: 3:40 PM
+:instructors: Cindy/Brian
+:module: Fainting & Seizures
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/medical-fainting-seizures.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/medical-fainting-seizures.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/medical-fainting-seizures.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/medical-fainting-seizures.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/medical-fainting-seizures.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/medical-fainting-seizures.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/medical-fainting-seizures.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/medical-fainting-seizures.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/medical-fainting-seizures.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/medical-fainting-seizures.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/medical-fainting-seizures.adoc[tags="slide-10"]
+****
+// end::module_medical-fainting-seizures[]
+
+// tag::module_medical-diabetic[]
+:duration: 10
+:starttime: 3:40 PM
+:endtime: 3:50 PM
+:instructors: Janet
+:module: Diabetic Emergencies
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/medical-diabetic.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/medical-diabetic.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/medical-diabetic.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/medical-diabetic.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/medical-diabetic.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/medical-diabetic.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/medical-diabetic.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/medical-diabetic.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/medical-diabetic.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/medical-diabetic.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/medical-diabetic.adoc[tags="slide-10"]
+****
+// end::module_medical-diabetic[]
+
+// tag::module_street-medic-philosophy-organizing[]
+:duration: 10
+:starttime: 3:50 PM
+:endtime: 4:00 PM
+:instructors: Brian
+:module: Street Medic Philosophy & Organizing
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/street-medic-philosophy-organizing.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/street-medic-philosophy-organizing.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/street-medic-philosophy-organizing.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/street-medic-philosophy-organizing.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/street-medic-philosophy-organizing.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/street-medic-philosophy-organizing.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/street-medic-philosophy-organizing.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/street-medic-philosophy-organizing.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/street-medic-philosophy-organizing.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/street-medic-philosophy-organizing.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/street-medic-philosophy-organizing.adoc[tags="slide-10"]
+****
+// end::module_street-medic-philosophy-organizing[]
+
+// tag::module_street-medic-organizing-local[]
+:duration: 10
+:starttime: 4:00 PM
+:endtime: 4:10 PM
+:instructors: NYCAM
+:module: Local Street Medic Organizing
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/street-medic-organizing-local.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/street-medic-organizing-local.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/street-medic-organizing-local.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/street-medic-organizing-local.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/street-medic-organizing-local.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/street-medic-organizing-local.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/street-medic-organizing-local.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/street-medic-organizing-local.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/street-medic-organizing-local.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/street-medic-organizing-local.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/street-medic-organizing-local.adoc[tags="slide-10"]
+****
+// end::module_street-medic-organizing-local[]
+
+// tag::module_street-medic-mental-health[]
+:duration: 10
+:starttime: 4:10 PM
+:endtime: 4:20 PM
+:instructors: 
+:module: Street Medic Mental Health
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/street-medic-mental-health.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/street-medic-mental-health.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/street-medic-mental-health.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/street-medic-mental-health.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/street-medic-mental-health.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/street-medic-mental-health.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/street-medic-mental-health.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/street-medic-mental-health.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/street-medic-mental-health.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/street-medic-mental-health.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/street-medic-mental-health.adoc[tags="slide-10"]
+****
+// end::module_street-medic-mental-health[]
+
+// tag::module_street-medic-gear[]
+:duration: 10
+:starttime: 4:20 PM
+:endtime: 4:30 PM
+:instructors: Brian
+:module: Street Medic Gear
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/street-medic-gear.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/street-medic-gear.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/street-medic-gear.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/street-medic-gear.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/street-medic-gear.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/street-medic-gear.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/street-medic-gear.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/street-medic-gear.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/street-medic-gear.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/street-medic-gear.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/street-medic-gear.adoc[tags="slide-10"]
+****
+// end::module_street-medic-gear[]
+
+// tag::module_break[]
+:duration: 40
+:starttime: 4:30 PM
+:endtime: 5:10 PM
+:instructors: 
+:module: Break - Light Meal
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/break.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/break.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/break.adoc[tags="slide-10"]
+****
+// end::module_break[]
+
+// tag::module_scenario-wake-up[]
+:duration: 40
+:starttime: 5:10 PM
+:endtime: 5:50 PM
+:instructors: 
+:module: Scenario (Wake Up)
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/scenario-wake-up.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/scenario-wake-up.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/scenario-wake-up.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/scenario-wake-up.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/scenario-wake-up.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/scenario-wake-up.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/scenario-wake-up.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/scenario-wake-up.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/scenario-wake-up.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/scenario-wake-up.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/scenario-wake-up.adoc[tags="slide-10"]
+****
+// end::module_scenario-wake-up[]
+
+// tag::module_scenario-final-battle[]
+:duration: 40
+:starttime: 5:50 PM
+:endtime: 6:30 PM
+:instructors: 
+:module: Scenario (Final Event)
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/scenario-final-battle.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/scenario-final-battle.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/scenario-final-battle.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/scenario-final-battle.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/scenario-final-battle.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/scenario-final-battle.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/scenario-final-battle.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/scenario-final-battle.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/scenario-final-battle.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/scenario-final-battle.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/scenario-final-battle.adoc[tags="slide-10"]
+****
+// end::module_scenario-final-battle[]
+
+// tag::module_day-3-wrapup[]
+:duration: 15
+:starttime: 6:30 PM
+:endtime: 6:45 PM
+:instructors: Miriam/Brian
+:module: Day 3 Wrapup
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[leveloffset=+1]
+endif::[]
+ifndef::module-tables[]
+include::modules/slides/day-3-wrapup.adoc[lines=1,leveloffset=+1]
+endif::[]
+
+****
+include::modules/slides/day-3-wrapup.adoc[tags="slide-1"]
+****
+****
+include::modules/slides/day-3-wrapup.adoc[tags="slide-2"]
+****
+****
+include::modules/slides/day-3-wrapup.adoc[tags="slide-3"]
+****
+****
+include::modules/slides/day-3-wrapup.adoc[tags="slide-4"]
+****
+****
+include::modules/slides/day-3-wrapup.adoc[tags="slide-5"]
+****
+****
+include::modules/slides/day-3-wrapup.adoc[tags="slide-6"]
+****
+****
+include::modules/slides/day-3-wrapup.adoc[tags="slide-7"]
+****
+****
+include::modules/slides/day-3-wrapup.adoc[tags="slide-8"]
+****
+****
+include::modules/slides/day-3-wrapup.adoc[tags="slide-9"]
+****
+****
+include::modules/slides/day-3-wrapup.adoc[tags="slide-10"]
+****
+// end::module_day-3-wrapup[]
+

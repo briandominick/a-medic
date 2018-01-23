@@ -1,0 +1,4 @@
+[format="csv",options="header",cols="2,1,1,1,1,2"]
+|===
+include::../../../_data/agenda.csv[]
+|===

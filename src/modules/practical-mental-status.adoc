@@ -1,0 +1,6 @@
+= Practical: Mental Status
+
+.Slide
+****
+include::{slidesdir}/practical-mental-status.adoc[tags='slide-01']
+****

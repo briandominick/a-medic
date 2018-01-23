@@ -1,0 +1,135 @@
+= Chemical Weapons
+// tag::slide-1[]
+.Campus police officer pepper sprays students (UC-Davis, 2011)
+image::police-pepperspray-ucdavis.png[width=600]
+<<<
+.NYPD officer pepper sprays unsuspecting bystanders
+image::police-pepperspray-bystanders-nyc.png[width=600]
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Pepper Spray (OC)::
+
+[cols="1,3"]
+|===
+| Irritant
+| oleoresin capsicum (OC)
+
+| Delivery
+| mainly direct spray, sometimes projectiles
+
+| Primary effects
+| pain, blindness, sometimes respiratory distress, mucous discharge
+
+| Secondary effects
+| irritation, dryness, certain sense of singular injustice
+
+| Primary treatment
+| water
+
+| Secondary treatments
+| “LAW”, air
+|===
+// end::slide-2[]
+<<<
+// tag::slide-3[]
+.Turkish police spray woman with tear gas (Gezi Park, 2013)
+image::police-pepper-spray-hose.jpg[width=600]
+<<<
+.Palestinians under fire from Israeli troops (Bethlehem, 2015)
+image::police-teargas-palestine.jpg[width=600]
+// end::slide-3[]
+<<<
+// tag::slide-4[]
+Tear Gas::
+
+[cols="1,3"]
+|===
+| Irritant
+| CS, CN, other aerosolized/particulate agents
+
+| Delivery
+| mainly by canister (launched or thrown), sometimes direct spray
+
+| Primary effects
+| pain, blindness, tearing, and mucous discharge
+
+| Worst effects
+| respiratory distress, blunt trauma from canisters, secondary injuries, hand burns, panic
+
+| Primary treatment
+| water
+
+| Secondary treatment
+| air
+|===
+// end::slide-4[]
+<<<
+// tag::slide-5[]
+.Protesters return tear gas (Quebec City, 2001)
+image::police-teargas-hockey.png[width=600]
+// end::slide-5[]
+<<<
+// tag::slide-6[]
+Which effects of tear gas cause medics the most trouble?::
+[%step]
+. blindness (**D**isability)
+. chaos (**E**nvironment)
+. canister injuries (blunt trauma, burns)
+// end::slide-6[]
+
+<<<
+
+// tag::slide-7[]
+Protocol::
+Street medics perform eye decontamination using a specific protocol.
+
+. Take precautions.
+. Introduce yourself and check for consent.
+. Check for and remove contact lenses.
+. Explain the procedure.
+. Perform an eye flush.
+. Repeat on the other eye, as necessary.
+
+Purpose::
+An properly administered eye flush physically drives chemical irritants from the eye.
+// end::slide-7[]
+
+<<<
+
+// tag::slide-8[]
+Practice::
+The eye flush is a mechanical _sweeping_ of the open eye with water, from the inner corner (near the nose) to the outer.
+[%step]
+. *Take precautions.* +
+Put on gloves, consider mask/goggles.
+
+. *Introduce yourself and check for consent.* +
+I'm Danarys Targaryan of House Targaryan, I'm a street medic, I can help if that's okay.
+
+. *Check for contact lenses.* +
+Are you wearing contacts?
+
+.. If *yes*, help them *remove their lenses immediately*.
+
+<<<
+
+Practice::
+[%step]
+[start=4]
+. *Guide them into position.* +
+Have them kneel on the ground and have them sit on their hands.
+
+. *Explain the procedure.* +
+“I'm going to pry your eye open and squirt it with water, okay?”
+
+. *Administer a forceful flush.*
+[loweralpha]
+.. Tilt their head toward the eye you are flushing.
+.. Pry their eye open by pinching the eyebrow.
+.. Administer firm squirts until you definitely make good contact.
+
+. *Repeat on the other eye.*
+// end::slide-8[]

@@ -1,0 +1,56 @@
+= Disability & Environment
+// tag::slide-1[]
+Disability::
+
+Is there _life-threatening danger_ the patient unable to perceive or avoid?
++
+* Most commonly caused by recent injury.
+* Also consider loss of mobility/perception aids.
+
+[WARNING.mini]
+Disability in a life-threatening situation calls for intervention, which _may_ require backup.
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Interventions: Disability::
+
+* Chemically induced blindness:
+** Perform an eye flush (taught later).
+* Lost glasses:
+** Take their arm, guide them out.
+
+[WARNING.mini]
+Only intervene if the life-threatening danger is not a danger to you.
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Environment::
+
+Are the immediate surroundings a danger to your patient?
++
+* Any threat that prevents or disrupts lifesaving care.
+** severe weather
+** hostiles
+** chaotic crowds
+
+[TIP.mini]
+Think ahead: changing environments mean continually reassessing the threat.
+
+// end::slide-3[]
+
+<<<
+
+// tag::slide-04[]
+[WARNING.mini]
+Bug out or shelter in place?
+
+* _Protecting_ immobile patients is preferred.
+* Some cases necessitate _carrying_ your patient.
+
+// end::slide-4[]

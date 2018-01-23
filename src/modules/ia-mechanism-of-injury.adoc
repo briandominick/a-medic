@@ -1,0 +1,6 @@
+= Mechanism of Injury
+
+.Slide
+****
+include::{slidesdir}/mechanism-of-injury.adoc[tags='slide-01']
+****

@@ -1,0 +1,6 @@
+= Teamwork Intro
+
+.Slide
+****
+include::{slidesdir}/teamwork-intro.adoc[tags='slide-01']
+****

@@ -1,0 +1,57 @@
+= Street Medic Ops (Part 2)
+// tag::slide-1[]
+Establishing scene safety::
+
+* If you do not have a safe treatment zone, find one nearby.
+* Ask for help from nearby businesses or residences.
+* Find semi-public space to
+** hide patients
+** organize medical assets
+** establish resupply, and
+** access definitive care.
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Be resourceful in the field::
+
+* Organize everybody on scene.
+* Maintain morale of medics, wounded, comrades.
+* Constantly reassess scene safety.
+
+[TIP]
+The street medic's number one piece of gear is our brain.
+Second is our ability to collaborate.
+Engage bystanders and innovate solutions in the field.
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Conventional police violence::
+
+During ongoing counterinsurgency violence campaigns (lasting hours or days), organize medical evacuation (_medevac_) operations.
+
+* Purpose: Transport at-risk patients to the _most definitive care available_ as securely as possible.
+* _At-risk_ may include:
+** critical trauma or illness or
+** people in need of _sanctuary_.
+* Transport in stages as needed.
+* Remain free and safe to keep operating. icon:flag[role=black]
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Rampage violence::
+
+In _active-shooter_ scenarios with no expectation of reason on the aggressor's part...
+
+. *Run* if you can. +
+Do not stop to play hero and create another casualty. Your duty as a street medic is to get to safety.
+. If evading the area is not possible, *hide* in the most secure place available, such as a room or building with locked door.
+. Arm everyone available and organize a response in case of discovery.
+. If discovered, you must *fight*.
+// end::slide-4[]

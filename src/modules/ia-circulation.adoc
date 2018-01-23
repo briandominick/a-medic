@@ -1,0 +1,6 @@
+= Circulation
+
+.Slide
+****
+include::{slidesdir}/circulation-shock.adoc[tags='slide-01']
+****

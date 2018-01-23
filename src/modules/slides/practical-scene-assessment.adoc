@@ -1,0 +1,26 @@
+= Practical: Scene Assessment
+// tag::slide-1[]
+DEMO: STOPping at the scene::
+[%step]
+include::../includes/s-t-o-p.adoc[]
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Practice: STOPping at the scene::
+
+. Students prompt, e.g.
+** “I'm surveying the scene...”
+. Instructors respond, e.g.
+** “There are projectiles flying everywhere.”
+// end::slide-2[]
+
+// tag::slide-3[]
+
+// end::slide-3[]
+
+// tag::slide-4[]
+
+// end::slide-4[]

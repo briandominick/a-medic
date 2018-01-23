@@ -1,0 +1,6 @@
+= Street Medic Gear
+
+.Slide
+****
+include::{slidesdir}/street-medic-gear.adoc[tags='slide-01']
+****

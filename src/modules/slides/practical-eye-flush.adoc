@@ -1,0 +1,26 @@
+= Practical: Curbside Eye Treatment
+// tag::slide-1[]
+Challenge::
+Pair up with a partner and practice administering and receiving an eye flush.
+
+Patients::
+* Simulate a real incident by resisting the opening of your eye as best you can.
+* Don't let the medic get away with missing steps, including *consent* and *contacts* checks.
+* If you're “not sure”, their flush was _insufficient_.
+
+Medics::
+* Remember to sweep inside to outside corners of eye.
+* Perform flushes until the patient confirms you've gotten water in their eye with a forceful flush.
+// end::slide-1[]
+
+// tag::slide-2[]
+
+// end::slide-2[]
+
+// tag::slide-3[]
+
+// end::slide-3[]
+
+// tag::slide-4[]
+
+// end::slide-4[]

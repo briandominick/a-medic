@@ -1,0 +1,93 @@
+= (Street) First Aid Intro
+// tag::slide-1[]
+What is first aid?::
++
+[%step]
+--
+Assistance given to any person suffering a sudden illness or injury, with care provided to *preserve life, prevent the condition from worsening, or promote recovery*.
+
+It includes *initial intervention* in a serious condition *prior to professional medical help* being available... as well as the *complete treatment of minor conditions*... (Wikipedia)
+--
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+What is street first aid?::
++
+[%step]
+--
+All the good stuff from the _first aid_ definition, plus medical and *tactical* training oriented toward chaotic, potential *mass-casualty situations* disproportionately involving *marginalized communities*, where official *conventional emergency services may not tread* and *authorities may not be welcome*.
+--
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+What is community medicine?::
++
+[%step]
+--
+Street first aid, with permanence and a broader mission:
+
+* Provide medical care to people actively or passively denied care.
+* Fill gaps in the larger medical system, e.g.
+** alternative/holistic approaches
+** friendlier & safer for marginalized folks
+* Organize medical workers.
+* Provide a glimpse (“prefiguration”) of alternative models of care.
+--
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Learning first aid::
+
+* Blood and gore?
+** Consider how much worse it will be IRL.
+** _Vasovagal syncope_ is a thing...
+** but medics don't faint.
+* Potentially traumatizing, i.e.
+** Some subject matter is difficult.
+** Scenarios get _real_ sometimes.
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Good Samaritan laws::
+
+By what right do we run around offering people first aid?
+
+* So-called “Good Samaritan” laws protect volunteer first-aid providers for all rendered assistance short of “gross negligence”.
+* If you do your best to help, technically you cannot be sued or charged with a crime.
+* These laws also technically protect those activating 9-1-1 from any drug charges associated with the emergency.
+// end::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+Escalations & continuum of care::
+
+* _Street first aiders call for backup!_
+* EMS is our first choice, with reservations.
+** a problematic solution
+** all the best gear, including a wicked fast ride
+* Direct transport is an option.
+* Advanced street medics are sometimes an option.
+
+[horizontal]
+EMS::: emergency medical services, coordinated by the 9-1-1 _first responder_ system and _medical control_.
+
+// end::slide-6[]
+
+<<<
+
+// tag::slide-7[]
+Activating EMS::
+
+* If possible, get patient's consent before calling 9-1-1.
+* You may need to coordinate access.
+* Get ready to advocate for your patient.
+// end::slide-7[]

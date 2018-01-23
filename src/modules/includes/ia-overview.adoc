@@ -1,0 +1,10 @@
+IA Overview::
+
+[horizontal]
+M::: Mechanism of Injury
+M::: Mental Status
+A::: Airway
+B::: Breathing
+C::: Circulation
+D::: Disability
+E::: Environment

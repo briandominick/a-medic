@@ -1,0 +1,70 @@
+= Mental Status
+// tag::slide-1[]
+Is the patient alert and oriented?::
+
+* Has the patient lost consciousness?
+* Do they respond readily and as expected?
+
+[IMPORTANT.mini]
+Any prior *loss of consciousness* or current *altered mental status* is a red flag.
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+
+*Altered mental status*
+
+A V P U scale::
+
+[horizontal]
+A::: alert and oriented
+V::: responds to **v**erbal stimuli
+P::: responds to **p**ainful stimuli
+U::: unresponsive
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Procedure::
+
+. If the patient is *alert*, assess their _orientation_:
+** What's your name?
+** What happened to you?
+** What month is it?
+** Where are we right now?
+** Did you lose consciousness at any point?
+. If the patient is not alert, try addressing them loudly.
+. If verbal stimulus doesn't work, apply some acute pain.
+. If this does not work, the patient is unresponsive.
+
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Reasoning::
+
+We assess mental status for multiple reasons:
+
+** The patient's critical medical needs.
+** Our own safety in cases where an injured patient may be frightened or agitated.
+** If we miss altered mental status or prior unconsciousness, we may be missing much more.
+
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Notes on mental status assessment::
+
+* Stay aware of changes in mental status throughout treatment.
+* Relay the patient's status history when handing off to advanced care.
+
+[TIP.mini]
+Don't ask closed-ended questions, such as, “Do you know where we are right now?”
+Questions with existentialist interpretations are preferred, such as, “Where are we?” and “Who is in charge of the United States?”
+
+// end::slide-5[]

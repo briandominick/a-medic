@@ -1,0 +1,6 @@
+= Practical: Consent
+
+.Slide
+****
+include::{slidesdir}/practical-consent.adoc[tags='slide-01']
+****

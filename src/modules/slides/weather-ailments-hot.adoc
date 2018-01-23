@@ -1,0 +1,77 @@
+= Hot Weather Ailments
+// tag::slide-1[]
+What do we see when it's hot and/or sunny out?::
+
+. sunburn
+. heat exhaustion
+. heat stroke
+
+.Freebie
+[TIP.mini]
+Treatment for sunburn: cover up or get out of the sun!
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Signs/symptoms of heat exhaustion::
+
+* fatigue
+* cool/pale/ashen skin with profuse sweating
+* headache / dizziness / nausea / vomiting
+
+[TIP.mini]
+Children and elderly folks are especially at risk.
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Intervention for heat exhaustion::
+
+* Get the patient to shade.
+* Fan the patient.
+* Remove excess clothing.
+* Have them drink water; no hardcore sports drinks or powders unless heavily diluted.
+
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Signs/symptoms of heat stroke::
+
+* Skin may be moist _or dry_, as in no longer sweating
+* Disorientation / deliriousness
+* Loss of consciousness
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Treatment for heat stroke::
+
+* Get the patient somewhere cool right away.
+* Remove clothing
+* Apply cold packs to neck, armpits, inner thighs
+* Fan and mist but do not soak skin or clothes
+
+[IMPORTANT.red.mini]
+Always activate emergency response for heat stroke.
+An air-conditioned taxi to the nearest ED might be the best option.
+
+// end::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+Counsel prevention::
+
+To avoid these awful eventualities, on hot days encourage activists to:
+
+* Cover as much of their body with light clothing as they can stand, slather the rest in sun block.
+* Stay hydrated and within their physical limits -- overdoing it costs medical resources
+
+// end::slide-6[]

@@ -1,0 +1,6 @@
+= Initial Assessment Intro
+
+.Slide
+****
+include::{slidesdir}/initial-assessment-intro.adoc[tags='slide-01']
+****

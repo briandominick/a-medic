@@ -1,0 +1,130 @@
+= Soft Tissue Injuries
+// tag::slide-1[]
+Some injuries we treat in the field::
+
+* minor lacerations
+* scrapes
+* minor bruises
+
+[TIP]
+When no complications are associated with a superficial injury, street medics may provide complete primary care.
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Open wounds (general treatment)::
+
+Once bleeding is controlled...
+
+. Irrigate the wound with water, saline, or diluted providone-iodine diluted in water (1:10).
+
+. Securely apply clean bandaging to keep wound covered, clean, and dry and maintain gentle direct pressure.
+
+[IMPORTANT.mini.black]
+Never use peroxide or alcohol, which damage tissue and slow healing.
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Refer lacerations for suturing under these conditions::
+
+* animal bite
+* over a joint
+* cosmetic concerns
+* jagged edges / won't close easily
+* half-inch or more depth
+
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Puncture wounds::
+
+. Do your best to irrigate.
+. Refer for care and warn of signs of infection.
+
+* high risk of infection (no self-irrigation)
+* difficult/painful to properly irrigate
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Avulsions::
+
+* Replace the “flap” and bandage in place.
+* Associated with increased risk of infection.
+* Refer to ED or urgent care.
+// end::slide-5[]
+
+
+<<<
+
+// tag::slide-6[]
+Impaled object::
+
+[IMPORTANT.mini.black]
+Never remove an impaled object larger than a splinter.
+
+. Loosely apply sterile dressing.
+. Bandage around object for stability.
+. Apply direct pressure near impalement without moving the object.
+. Refer to ED or emergency transport for large/deep objects icon:flag[role=red]
+
+<<<
+
+*Impaled Object: Donut bandage*
+
+video::videos/donut-bandage.mp4[width=640]
+
+// end::slide-6[]
+
+<<<
+
+// tag::slide-7[]
+Missing teeth::
+
+. Replace lost tooth into socket or store in container with patient's own saliva.
+
+. Have patient bite gently on wad of gauze.
+
+* Do not touch the root of the tooth. icon:flag[role=black]
+* Patient needs to see a dentist ASAP. icon:flag[role=red]
+
+// end::slide-7[]
+
+<<<
+
+// tag::slide-8[]
+Eye injuries::
+
+. Cover the injured eye completely.
+
+. In stable environment, bandaging uninjured eye with a pinhole to decrease likelihood of injured eye movement.
+// end::slide-8[]
+
+// tag::slide-9[]
+Contusions::
+
+* Minor bruising is treated with rest and ice.
+
+* Major bruising gets referred to ED or urgent care.
+
+// end::slide-9[]
+
+// tag::slide-10[]
+Burns::
+
+* Can be superficial, partial thickness, or full thickness.
+
+. Remove the source of the burn.
+. Cool the site with water.
+. Apply loose, sterile dressing.
+
+* Burn gels/pads are okay on first-degree burns.
+// end::slide-10[]

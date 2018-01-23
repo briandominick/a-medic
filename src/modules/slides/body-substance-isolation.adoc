@@ -1,0 +1,78 @@
+= Body Substance Isolation
+// tag::slide-1[]
+Also known as: _BSI_
+
+BSI works _two ways_::
+
+* Keeps you safe from your patients
+* Keeps your patients safe from you
+
+What substances are we talking about?::
+
+* blood
+* vomit
+* saliva
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Rules of glove::
+* Always change gloves between patients
+* Dispose of gloves if they get dirty or damaged
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+
+Choosing gloves::
+
+* Always use _non-latex_ gloves:
+** No allergic reactions
+** No need to inquire about latex allergies
+
+* Color matters
+** Lighter colors show blood better
+** Black hides blood
+** Each offers advantages
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+*Removing exam gloves:*
+
+video::videos/glove-removal.mp4[width=640]
+
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Other personal protective gear::
+
+* goggles (chemicals, projectiles, and body substances)
+* poncho (chemicals and body substances)
+// end::slide-5[]
+
+// tag::slide-6[]
+
+// end::slide-6[]
+
+// tag::slide-7[]
+
+// end::slide-7[]
+
+// tag::slide-8[]
+
+// end::slide-8[]
+
+// tag::slide-9[]
+
+// end::slide-9[]
+
+// tag::slide-10[]
+
+// end::slide-10[]

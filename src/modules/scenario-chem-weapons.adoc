@@ -1,0 +1,6 @@
+= Scenario 1 (Chem Weapons)
+
+.Slide
+****
+include::{slidesdir}/scenario-1.adoc[tags='slide-01']
+****

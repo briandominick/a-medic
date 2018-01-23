@@ -1,0 +1,132 @@
+= Bleeding & Shock
+// tag::slide-1[]
+[IMPORTANT.red]
+Severe bleeding is always a red flag, no matter when it's discovered.
+
+Signs of severe bleeding::
+
+* evidence or suspicion of massive blood loss
+** more than a pint in an adult at any rate
+* arterial bleeding
+** bright red
+** spurting
+* shock
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Bleeding control::
+
+. Apply direct pressure to the site of the wound, as long as doing so will not cause further injury.
+. If direct pressure does not control severe bleeding or cannot be applied, consider a tourniquet.
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Direct pressure::
+
+. Take body substance isolation precautions!
+. Apply direct pressure with a gloved hand until gauze is available.
+. Bleeding should stop within 3-5 minutes.
+
+[WARNING.mini]
+Removing gauze risks breaking any clot that is forming.
+Keep packing it on as blood soaks through.
+
+[TIP.mini]
+Patients can apply direct pressure to their own wound in many cases, which can be empowering.
+Exercise good judgment.
+
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Indications for tourniquet::
+
+* Amputation above the wrist or ankle.
+* Severe bleeding not stopped by direct pressure.
+* Direct pressure cannot be applied to site of wound.
+
+[TIP.mini]
+Get a manufactured tourniquet device and _learn to use it_.
+
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+How to apply a tourniquet::
+
+* Use a dedicated tourniquet when available.
+* Makeshift from flexible strap or durable fabric.
+* Apply tourniquet just above the injury site.
+* Tighten till bleeding stops or becomes oozing.
+* Affix the time you applied the tourniquet securely to the patient.
+* Never release the tourniquet.
+// end::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+Signs/symptoms of severe internal bleeding::
+
+* obvious bruising in abdomen or chest
+* blood in vomit, stool, or urine
+* abdominal pain and swelling
+
+[IMPORTANT.mini.red]
+This patient definitely needs follow-up care, but activate emergency response only if signs of shock are present.
+
+// tag::slide-6[]
+
+<<<
+
+// tag::slide-7[]
+Hypovolemic shock::
+
+Caused by internal or external blood loss -- technically, a severe loss of _blood volume_.
++
+Core organs compete for scarce or hard-to-get blood, causing slow overall decompensation.
+
+[IMPORTANT.red]
+Shock kills!
+
+// end::slide-7[]
+
+<<<
+
+// tag::slide-8[]
+Signs of shock associated with injury::
+
+Early:::
+Headache, dizziness, nausea, fatigue
+
+Later/severe:::
+** cold/clammy/pale/ashen skin
+** pink parts are bluish
+** rapid, shallow breathing
+** disorientation / agitation / combativeness
+
+// end::slide-8[]
+
+<<<
+
+// tag::slide-9[]
+First aid for shock::
+
+* Activate emergency response!
+* Get them someplace warm if they can be moved and shelter is near.
+* Lie the patient down.
+* Cover them with a blanket.
+* No food or liquids.
+* Keep them as comfortable and calm as possible.
+* Monitor level of consciousness and ABCs.
+
+// tag::slide-10[]
+
+// end::slide-10[]

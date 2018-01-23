@@ -1,0 +1,6 @@
+= Practical: BSI
+
+.Slide
+****
+include::{slidesdir}/practical-bsi.adoc[tags='slide-01']
+****

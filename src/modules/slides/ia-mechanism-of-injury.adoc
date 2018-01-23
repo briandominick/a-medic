@@ -1,0 +1,106 @@
+= Mechanism of Injury
+// tag::slide-1[]
+MOI::
+  The _immediate_ cause of an injury or sudden illness.
+
+* Do _not_ think like a radical at this stage!
+* It's not the _root_ cause, but the _direct_ cause.
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+MOI determines::
+
+* Whether the danger persists
+** potential harm to you, e.g.
+*** cops
+*** traffic
+** continuing to harm the patient, e.g.
+*** burns
+*** ongoing brutality
+*** vehicle
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Cervical spinal injuries::
+
+[WARNING.mini]
+Injuries to the vertebrae in the neck can cause paralysis, including fatal paralysis.
+
+image::cervical-spine-wikipedia.png[width="40%"]
+
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Positive MOI for C-spine injury::
+
+* fall from twice one's height
+* severe motor vehicle accident
+* motor vehicle to pedestrian
+* direct trauma to the neck
+
+[IMPORTANT.mini]
+If you suspect a C-spine injury, you must immediately initiate C-spine stabilization.
+
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Intervention: C-spine stabilization::
+
+*Principal:* Prevent further injury to the cervical vertebrae and spinal cord by restricting movement.
+
+* Approach from the front
+* Tell the injured person to keep their head still.
+
+[TIP.mini]
+More important than keeping the patient still is keeping the neck stable and in line.
+
+[right]#(1/2)#
+
+// end::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+Intervention: C-spine Stabilization::
+
+* Gently bring the neck into alignment.
+** STOP! if:
+*** the patient feels pain
+*** there is grinding (“crepitus”)
+* Firmly hold both sides of the patient's head.
+* Someone must hold this position until advanced help arrives.
+
+[right]#(2/2)#
+
+// end::slide-6[]
+
+<<<
+
+// tag::slide-7[]
+Persistent MOI::
++
+--
+The other potential red flag for the MOI stage is a _persistent mechanism of injury_.
+
+. What is the MOI for a burn?
+[%step]
+** _Heat_ -- so that's what we try to address.
+[%step]
+. How about MOI for an impaled object?
+[%step]
+** The _object_ -- we don't remove these, so we're going need further care.
+--
+
+[IMPORTANT.mini]
+Persistent MOI calls for intervention. If you cannot intervene safely or successfully, get help!
+
+// end::slide-7[]

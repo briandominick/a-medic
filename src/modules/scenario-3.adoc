@@ -1,0 +1,6 @@
+= Scenario 3
+
+.Slide
+****
+include::{slidesdir}/scenario-3.adoc[tags='slide-01']
+****

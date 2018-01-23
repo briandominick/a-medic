@@ -1,0 +1,6 @@
+= Street Medic Philosophy & Organizing
+
+.Slide
+****
+include::{slidesdir}/street-medic-philosophy-organizing.adoc[tags='slide-01']
+****

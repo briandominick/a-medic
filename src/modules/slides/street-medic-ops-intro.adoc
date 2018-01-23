@@ -1,0 +1,70 @@
+= Street Medic Ops Intro
+// tag::slide-1[]
+[NOTE.mini]
+Why do street medics always work in pairs?
+
+[%step]
+--
+* extra hands
+* second opinion
+* safety
+** eyes in the back of your head
+** crowd control
+** direct protection while treating
+
+--
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+[IMPORTANT.black]
+A pair is not three.
+
+[%step]
+[TIP.mini]
+In this presentation, the *black flag* symbol indicates wisdom of the ages that you will regret breaking when you inevitably decide you know better.
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Pairing up::
+
+* *Compatability* is key, e.g.
+** risk tolerance
+*** arrest
+*** injury
+** mobility
+** schedules
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Pairing up::
+
+* *Complementarity* is also handy, e.g.
+** experience levels
+*** medical
+*** street/action
+** languages
+** genders
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Syncing up with P E A R L::
+
+[horizontal]
+P::: physical needs
+E::: emotional/psychological needs
+A::: arrestability
+R::: roles you might play +++*+++
+L::: loose ends
++
++++*+++ _roles_ include tactical lead, medical lead, communications
+// end::slide-5[]

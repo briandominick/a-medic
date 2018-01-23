@@ -1,0 +1,8 @@
+= Scene Assessment
+
+include::includes/times-table.adoc[]
+
+.slide
+****
+include::{slidesdir}/scene-assessment.adoc[tags='slide-01']
+****

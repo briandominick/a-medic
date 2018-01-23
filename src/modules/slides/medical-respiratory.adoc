@@ -1,0 +1,129 @@
+= Difficulty Breathing
+// tag::slide-1[]
+We know _respiratory distress_ is a red flag during initial assessment, but activating 9-1-1 does not have to be our only intervention.
+
+[IMPORTANT.red.mini]
+Respiratory excitement from physical exertion does not typically turn life threatening.
+Distressed breathing should improve with rest, or else icon:flag[role=red].
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Respiratory distress defined::
+
+Breathing that is inadequate to sustain proper perfusion of vital organs.
+
+* too shallow / rapid (more than 25 breaths per minute)
+* too infrequent (fewer than 8 breaths per minute)
+* too strained (asthma, anaphylaxis, COPD, injury)
+* too inconsistent (agonal, apneic)
+
+Causes of respiratory distress at actions::
+
+* injury to airway or chest
+* asthma
+* shock (mental or physical)
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+General interventions for respiratory distress::
+
+* Seat the patient upright, leaning forward, elbows on knees (“tripod”).
+* Breathe along with the patient, exhibiting calm and confidence.
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Airway/chest injuries::
+
+* Treat as directed in *Special Injuries*, then apply general treatment for respiratory distress.
+
+* Remember, most basic interventions for airway trauma will decompensate quickly.
+
+* Rapid intubation, chest decompression, and drainage saves lives.
+
+* Tripod position may not be appropriate, depending on injury.
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Asthma overview::
+Asthma attacks are spasms/constrictions of the bronchioles.
+
+Signs/symptoms of asthma attack::
+
+* person suffers from asthma
+* severe wheezing (both in and out)
+* mucous production
+* non-stop coughing
+* rapid / shallow breathing
+* chest tightness / pressure
+* tightened neck / chest muscles (called retractions)
+* difficulty talking
+* sense of anxiety / panic
+// end::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+Asthma intervention::
+
+. Help them use their inhaler.
+. If distress continues/worsens, activate 9-1-1. icon:flag[role=red]
+. Treat with general intervention.
+
+[IMPORTANT.black.mini]
+Do not use someone else's inhaler unless the patient can affirmatively identify it as the same prescription.
+
+// end::slide-6[]
+
+<<<
+
+// tag::slide-7[]
+Anaphylactic shock overview::
+Allergic reaction including severe swelling that constricts the upper airway.
+
+Signs/symptoms of anaphylactic shock::
+
+* person suffers from anaphylaxis / knows source of reaction
+* skin reactions (hives / itching / paleness)
+* swollen lips, tongue, or throat
+* tightness in the throat / sense of airways closing
+* hoarseness / trouble speaking
+* nausea, abdominal pain, or vomiting
+* rapid pulse / low blood pressure
+* dizziness / loss of consciousness
+
+// end::slide-7[]
+
+<<<
+
+// tag::slide-8[]
+Anaphylactic shock intervention::
+
+. Help them administer epinephrine using epipen.
+. Activate 9-1-1. icon:flag[role=red]
+. Treat with general intervention.
+
+[IMPORTANT.mini.black]
+Do not administer epinephrine for hemorrhagic shock or for any purpose other than anaphylactic shock.
+
+// end::slide-8[]
+
+<<<
+
+// tag::slide-9[]
+*Anaphylactic shock with epipen administration*
+
+video::videos/anaphylaxis-real.mp4[width=320]
+// end::slide-9[]
+
+// tag::slide-10[]
+
+// end::slide-10[]

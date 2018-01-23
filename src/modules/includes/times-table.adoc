@@ -1,0 +1,26 @@
+= Module: {module}
+[cols="1,2,4",options="header"]
+|===
+|
+| Planned
+| Actual
+
+| Instructors
+| {instructors}
+|
+
+| Duration
+| {duration}
+|
+
+| Start Time
+| {starttime}
+|
+
+| End Time
+| {endtime}
+|
+
+| Notes
+2+|
+|===

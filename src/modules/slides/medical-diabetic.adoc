@@ -1,0 +1,69 @@
+= Diabetic Emergencies
+// tag::slide-1[]
+Complications of diabetes occur in conditions of high and low blood sugar.
+
+[TIP]
+Hypoglycemia pursuant to missed meals and high exertion is among the most common medical conditions encountered by street medics.
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Signs/symptoms of diabetic emergency::
+
+* missed meals
+* recent high activity
+* bracelet/necklace labeled `DIABETES`
+* fatigue
+* hunger / severe thirst
+* pale / sweaty / clammy skin
+* may seem and even smell intoxicated
+* sudden loss of consciousness
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Treatment::
+
+* If patient is alert, administer glucose (sugar) in the form of fruit juice, energy bar, or similar beverage/snack.
+
+* Diet soft drinks do not count.
+
+* If effective, patient should know what to do next.
+
+* If ineffective: icon:flag[role=red]
+
+[IMPORTANT.mini.red]
+If patient is not alert, place in recovery position and activate emergency response.
+
+// end::slide-3[]
+
+// tag::slide-4[]
+
+// end::slide-4[]
+
+// tag::slide-5[]
+
+// end::slide-5[]
+
+// tag::slide-6[]
+
+// end::slide-6[]
+
+// tag::slide-7[]
+
+// end::slide-7[]
+
+// tag::slide-8[]
+
+// end::slide-8[]
+
+// tag::slide-9[]
+
+// end::slide-9[]
+
+// tag::slide-10[]
+
+// end::slide-10[]

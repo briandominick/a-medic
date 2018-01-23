@@ -1,0 +1,8 @@
+= Bleeding & Shock
+
+include::includes/times-table.adoc[]
+
+.slide
+****
+include::{slidesdir}/bleeding-shock.adoc[tags='slide-01']
+****

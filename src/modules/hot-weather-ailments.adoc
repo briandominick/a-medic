@@ -1,0 +1,6 @@
+= Hot Weather Ailments
+
+.Slide
+****
+include::{slidesdir}/hot-weather-ailments.adoc[tags='slide-01']
+****

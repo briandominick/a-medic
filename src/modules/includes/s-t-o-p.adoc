@@ -1,0 +1,7 @@
+S T O P::
+
+[horizontal]
+S::: Survey the scene.
+T::: Take precautions.
+O::: Organize help.
+P::: Proceed with caution.

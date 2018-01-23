@@ -1,0 +1,8 @@
+= Chemical Weapons
+
+include::includes/times-table.adoc[]
+
+.Slide
+****
+include::{slidesdir}/chemical-weapons.adoc[tags='slide-01']
+****

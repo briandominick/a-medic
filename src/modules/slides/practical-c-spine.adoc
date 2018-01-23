@@ -1,0 +1,29 @@
+= Practical: C-Spine
+// tag::slide-1[]
+*DEMO: Standard manual C-spine stabilization*
+
+image::demo-c-spine-stabilization-standard.jpg[width="600"]
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+*DEMO: Modified (forearm) C-spine stabilization*
+
+image::demo-c-spine-stabilization-forearms.png[width="600"]
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Practice::
+
+. Form into pairs.
+. One partner is patient while other (medic) practices manual, inline C-spine stabilization.
+. Medic switches to modified C-spine stabilization.
+. Switch roles!
+// end::slide-3[]
+
+// tag::slide-4[]
+
+// end::slide-4[]

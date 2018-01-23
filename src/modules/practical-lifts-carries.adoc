@@ -1,0 +1,6 @@
+= Practical: Lifts & Carries
+
+.Slide
+****
+include::{slidesdir}/practical-lifts-carries.adoc[tags='slide-01']
+****

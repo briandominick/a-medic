@@ -1,0 +1,6 @@
+= First Aid Intro
+
+.Slide
+****
+include::{slidesdir}/intro-first-aid.adoc[tags='slide-01']
+****

@@ -1,0 +1,6 @@
+= Street Medic Operations
+
+.Slide
+****
+include::{slidesdir}/street-medic-operations.adoc[tags='slide-01']
+****

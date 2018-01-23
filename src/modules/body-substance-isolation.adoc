@@ -1,0 +1,6 @@
+= Body Substance Isolation
+
+.Slide
+****
+include::{slidesdir}/body-substance-isolation.adoc[tags='slide-01']
+****

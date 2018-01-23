@@ -1,0 +1,68 @@
+= Welcome
+// tag::slide-1[]
+Lead Instructors::
+* Miriam Rocek
+* Brian Dominick
+
+Schedule::
+* Friday, 6pm - 10pm
+* Saturday, 9am - 7pm
+* Sunday, 1pm - 7pm
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Ground Rules::
+
+. Be responsible for yourself.
+. Be accountable for your words & behavior.
+. Take care of each other.
+. Take the training seriously.
+. Use your imaginations (role plays).
+. Have fun.
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Anti-Oppression::
+We do not tolerate discrimination or criticism based on race, ethnicity, religion, gender, sexuality, age, income, relationship to the means of production, body size, ideology, or any other bullshit reason.
+
+We also expect you to::
+* Be conscious how much space you take up.
+* Respect people's identities, backgrounds, pronouns, etc.
+* Apologize when you upset someone, and considerately try to learn why.
+* Try to forgive people's honest mistakes.
+* Please don't ghost us -- we want to know if something about this training makes you not come back. Maybe it will help us learn for next time.
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Trigger Warning::
++
+--
+[WARNING.mini]
+Being a street medic can be traumatizing.
+
+*  Even street medic _trainings_ can get intense.
+** Scenarios incorporate:
+*** simulated violence, pain, cops
+*** authentic randomness
+* Learn to make the difference between death and life.
+* Medics help each other through the stresses and trauma.
+--
+// end::slide-4[]
+
+<<<
+
+// tag::slide-6[]
+Housekeeping::
+
+* Bathrooms
+* Breaks
+* Meals
+* Special needs
+* The “What if...” sheet
+// end::slide-6[]

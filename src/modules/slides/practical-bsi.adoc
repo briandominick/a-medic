@@ -1,0 +1,23 @@
+= Practical: BSI
+// tag::slide-1[]
+Glove up!
+
+Objectives::
+
+* Determine your size in exam gloves.
+* Practice getting them on.
+* Practice taking them off properly.
+
+// end::slide-1[]
+
+// tag::slide-2[]
+
+// end::slide-2[]
+
+// tag::slide-3[]
+
+// end::slide-3[]
+
+// tag::slide-4[]
+
+// end::slide-4[]

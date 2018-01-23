@@ -1,0 +1,7 @@
+= Musculoskeletal Injuries
+= Body Substance Isolation
+
+.Slide
+****
+include::{slidesdir}/musculoskeletal-injuries.adoc[tags='slide-01']
+****

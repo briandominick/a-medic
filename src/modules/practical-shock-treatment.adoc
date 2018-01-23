@@ -1,0 +1,6 @@
+= Practical: Shock Treatment
+
+.Slide
+****
+include::{slidesdir}/practical-shock-treatment.adoc[tags='slide-01']
+****

@@ -1,0 +1,6 @@
+= Practical: Pulse Check
+
+.Slide
+****
+include::{slidesdir}/practical-pulse-check.adoc[tags='slide-01']
+****

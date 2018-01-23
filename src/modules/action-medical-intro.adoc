@@ -1,0 +1,8 @@
+= Action Medical Intro
+
+include::includes/times-table.adoc[]
+
+.slide
+****
+include::{slidesdir}/action-medical-intro.adoc[tags='slide-01']
+****

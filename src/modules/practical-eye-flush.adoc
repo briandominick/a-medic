@@ -1,0 +1,6 @@
+= Practical: Eye Flush
+
+.Slide
+****
+include::{slidesdir}/practical-chemical-weapons.adoc[tags='slide-01']
+****

@@ -1,0 +1,8 @@
+= Training Intro
+
+include::includes/times-table.adoc[]
+
+.slide
+****
+include::{slidesdir}/welcome.adoc[tags='slide-01']
+****

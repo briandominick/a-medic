@@ -1,0 +1,6 @@
+= Special Injuries
+
+.Slide
+****
+include::{slidesdir}/special-injuries.adoc[tags='slide-01']
+****

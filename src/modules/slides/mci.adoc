@@ -1,0 +1,45 @@
+= Mass Casualty Incidents
+// tag::slide-1[]
+As marked and equipped first responders to a potentially lethal _mass casualty incident_ (MCI), street medics have a responsibility to perform _triage_.
+
+[NOTE.mini]
+A _mass casualty incident_ is any trauma scenario in which the number of serious injuries outnumbers the _organized responders_.
+
+Street medics will see bystanders as _unorganized_ responders, and EMS will see marked street medics as _unorganized_ responders.
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Triage definition::
+Prioritization of care when patients outnumber available medics.
+
+Triage purpose::
+Organize medical resources to prioritize the most critical cases.
+
+Who does it?::
+Triage should be performed by the highest trained/most capable medic on scene.
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Triage procedure::
+. Have anyone who can walk on their own and is not actively providing care move to a “green” area.
+. Perform rapid ABCDE assessment on all remaining patients.
+. Assign available medics to perform life-saving interventions in critical cases as you go.
+. After checking all patients, assign medical resources according to severity.
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Triage tips::
+* After initial round, triage “officer” should monitor the scene.
+* Dispatch bystanders to sweep for unreported casualties.
+* Plug new medic teams in as they arrive.
+* Resist hyperfocus on any one case without a damn good reason.
+* When police arrive... assert any medical credentials and state the most critical injuries.
+* When EMS arrives... convey the triage stack and insist they let marked street medics continue providing care until EMTs can replace every first aider.
+// end::slide-4[]

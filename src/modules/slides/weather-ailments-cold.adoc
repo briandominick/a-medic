@@ -1,0 +1,103 @@
+= Cold Weather Ailments
+// tag::slide-1[]
+Cold weather threats::
+
+* Hypothermia -- body-heat loss that threatens organ failure
+* Frostnip -- minor tissue damage due to cold
+* Frostbite (rare) -- severe tissue damage, usually to extremities
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Signs/Symptoms of hypothermia::
+
+* severe shivering
+* pale/bluish where should be pinkish
+* slurred speech / mumbling
+* slow / shallow breathing
+* clumsiness / drowsiness / fatigue
+* disorientation / memory loss / loss of consciousness
+
+[TIP.mini]
+Factor in wind and rain, and you may see hypothermia at temperatures as high as 50°F (10°C) or higher or in water up to 70°F (21°C).
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Treatment of hypothermia::
+
+* Get the patient out of the cold.
+* Remove dry clothes and dry the patient.
+* Warm liquids by mouth are okay if patient is alert -- no alcohol or stimulants (such as cigarettes/coffee).
+* Use active warming with heat packs to the armpits / thighs.
+* This may be a good time to bust out that space blanket.
+
+[IMPORTANT.red.mini]
+Always activate emergency response for hypothermia.
+A hypothermic patient is best warmed under advanced medical supervision.
+
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Signs/symptoms of frost__nip__::
+
+* reddened/lightened skin where exposed or in extremities (fingers/toes)
+* itching / tingling / numbness
+
+Treatment for frostnip::
+
+. Get to a warm place.
+. Warm the area with moderate heat, such as warm hands or insulated heat pack.
+
+* Do NOT re-expose to cold.
+* Do NOT rewarm with friction.
+
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Signs/symptoms of frost__bite__::
+
+Following the signs/symptoms of frist__nip__...
+
+* white/yellow/waxy skin
+* blotchiness
+* blistering/swelling
+* clumsiness due to joint/muscle stiffness
+
+// end::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+
+Treatment for frostbite::
+
+. Get the patient somewhere warm...
+. but do not warm and then allow refreezing.
+. Do not actively warm the site.
+
+[IMPORTANT.red.mini]
+Activate emergency response or rush to emergency department; minutes count because tissue is at stake.
+
+// end::slide-6[]
+
+<<<
+
+// tag::slide-7[]
+Counsel prevention::
+
+Properly dressed, fed, and hydrated activists rarely get hypothermia or frostbite.
+
+* Extremities -- including ears and noses -- need coverage in cold weather.
+* Water resistant clothing even in merely chilly weather.
+* Layers, layers, layers, including a wicking layer on the inside.
+* Send people indoors if they appear at risk; encourage them to rotate.
+
+// end::slide-7[]

@@ -1,0 +1,71 @@
+= Fainting & Seizures
+// tag::slide-1[]
+Sometimes -- especially in crowds and stress -- people pass out.
+
+Sometimes people who pass out experience dramatic muscle spasms and convulsions called seizures.
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Fainting (syncope) overview::
+
+Sudden extreme weakness/collapse due to sudden dilation of blood vessels.
+
+Treatment::
+
+. Monitor alertness and ABCDEs.
+. Raise patient's legs at least 12 inches.
+. Remove/loosen clothing.
+. If they do not come around within 30-60 seconds, activate 9-1-1. icon:flag[role=red]
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Epileptic seizure overview::
+
+What to expect with seizures::
+
+* sudden confusion may precede onset
+* body stiffens, person collapses
+* loss of consciousness, possibly prolonged
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+image::seizure-intervention-comic.gif[width=800]
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Treating seizures::
+
+. Time the seizure.
+. Protect the patient. +
+Clear the area of hazards and gawkers.
+. Help maintain a clear airway.
+. When they stop seizing, place them in recovery position.
+. Calmly talk to them until they regain alertness.
+
+// end::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+.Activate 9-1-1 for a seizure if...
+[IMPORTANT.mini.red]
+--
+* the person is unknown to you and everyone present
+* this is their first seizure
+* the severity of the event is known to be extraordinary for this person
+--
+
+[IMPORTANT.mini.black]
+Do _NOT_ restrain the patient. +
+Do _NOT_ insert anything into their mouth.
+
+// end::slide-6[]

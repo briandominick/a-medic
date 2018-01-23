@@ -1,0 +1,6 @@
+= Training Intro
+
+.Slide
+****
+include::{slidesdir}/training-intro.adoc[tags='slide-01']
+****

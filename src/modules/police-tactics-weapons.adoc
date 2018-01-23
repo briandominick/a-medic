@@ -1,0 +1,6 @@
+= Police Tactics & Weapons
+
+.Slide
+****
+include::{slidesdir}/police-tactics-weapons.adoc[tags='slide-01']
+****

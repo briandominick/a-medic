@@ -1,0 +1,9 @@
+S A M P L E history::
+
+[horizontal]
+S::: signs/symptoms
+A::: allergies
+M::: medications
+P::: past medical history
+L::: last food and drink
+E::: events leading up to illness/incident

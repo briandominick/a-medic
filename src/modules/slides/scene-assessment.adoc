@@ -1,0 +1,74 @@
+= Scene Assessment
+// tag::slide-1[]
+include::../includes/s-t-o-p.adoc[]
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Scan the scene.::
+
+[%step]
+--
+* Halt! Do not rush in.
+* Survey the area:
+** Is the _mechanism of injury_ persistent?
+** How many people are injured?
+** What do you anticipate?
+--
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Take precautions.::
+
+[%step]
+--
+* Consider repositioning.
+* Put on protective gear.
+** body substance isolation
+** physical protection
+--
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Organize help.::
+
+[%step]
+--
+* Check in with your team.
+** Who will perform which roles?
+* Call for backup.
+** Other medics?
+** EMS?
+** Bystanders?
+* Organize the crowd.
+--
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Proceed with caution.::
+
+[%step]
+--
+* Medics do not run.
+* Medics walk swiftly with purpose.
+* Sometimes you have to walk swiftly _away_.
+* Stay calm and confident.
+--
+// end::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+More scene safety basics::
+
+* Never make a new patient!
+* Continually reassess the scene for safety.
+* Be prepared to move or protect your patient.
+// end::slide-6[]

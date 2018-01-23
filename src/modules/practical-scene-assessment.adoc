@@ -1,0 +1,6 @@
+= Practical: Scene Assessment
+
+.Slide
+****
+include::{slidesdir}/practical-scene-assessment.adoc[tags='slide-01']
+****

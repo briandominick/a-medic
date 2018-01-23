@@ -1,0 +1,30 @@
+= Practical: Consent
+// tag::slide-1[]
+
+Instructions::
+
+. Pair off with a partner.
+. Take turns as medic and injured person.
+. Patient declines care at first; medic tries to work with it.
+. Switch roles back and forth till ‘time’ is called.
+
+[TIP.mini]
+--
+Medics, remember your approach matters: “I'm Juniper. I used to be a nurse. Is it okay if I help you?”
+
+Patients, make it difficult and give honest feedback!
+--
+
+// end::slide-1[]
+
+// tag::slide-2[]
+
+// end::slide-2[]
+
+// tag::slide-3[]
+
+// end::slide-3[]
+
+// tag::slide-4[]
+
+// end::slide-4[]

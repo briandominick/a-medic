@@ -1,0 +1,35 @@
+= People Intro
+// tag::slide-1[]
+. What should we call you?
+. Where do you live?
+. Where are you from?
+. What are your affiliations?
+. What is your medical background?
+. What is your activism background?
+. What do you hope to do with your training?
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Instructors' pledge to you::
+
+* We will teach within our _scope of expertise_ and your expected _scope of practice_.
+* We will admit when we don't have an answer; guesses will be labeled as such.
+* If on Sunday afternoon we don't think you're ready to be a street medic, we'll talk with you privately about how you can become ready.
+* We will greet criticism with grace and appreciation, not defensiveness.
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+What we ask of you::
+
+* Try your best to be gracious in response to assessments of things you say and do.
+* Tell us if we're not reaching you or the environment is problematic.
+* Respect the knowledge we are about to share; it has a rich tradition attained through struggle and trauma.
+// end::slide-3[]
+
+// tag::slide-4[]
+
+// end::slide-4[]

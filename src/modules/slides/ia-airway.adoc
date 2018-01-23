@@ -1,0 +1,76 @@
+= Airway
+// tag::slide-1[]
+MOI for airway obstruction::
+
+* choking
+* injury to throat
+
+[IMPORTANT.mini]
+An airway obstruction is a red flag. Call for backup immediately!
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+MOI for airway compromise::
+
+* injury to throat
+* unconsciousness with fluids in mouth
+* unconscious and lying on back
+
+[WARNING.mini]
+Airway compromise is cause for pausing your initial assessment to intervene.
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Intervention: Choking (conscious patient)::
+
+. Establish if the patient is choking.
+. Tell the patient to cough.
+. Apply *5* firm back thrusts between lower shoulder blades.
+. Apply *5* firm abdominal thrusts above the navel.
+
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Intervention: Open airway (unresponsive patient)::
+
+. If your patient is or becomes unresponsive, check for breathing.
+. If the patient is not breathing, open their airway:
+** If no C-spine injury is suspected, use the head-tilt, chin-lift technique to open the airway.
+** For suspected C-spine compromise, use the jaw-thrust maneuver.
+. If the patient does not spontaneously breathe, initiate CPR.
+. If the patient begins breathing on their own, roll them into the recovery position.
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+*DEMO: Head-tilt, chin-lift maneuver*
+
+video::videos/head-tilt-chin-lift-technique.mp4[width=640]
+// tag::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+*DEMO: Jaw-thrust maneuver*
+
+video::videos/jaw-thrust-technique.mp4[width=640]
+// tag::slide-6[]
+
+<<<
+
+// tag::slide-7[]
+*DEMO: Recovery position*
+
+video::videos/recovery-position.mp4[width=640]
+
+[small]#skip to `0:20`#
+// tag::slide-7[]

@@ -1,0 +1,6 @@
+= Practical: Blood Sweep
+
+.Slide
+****
+include::{slidesdir}/practical-blood-sweep.adoc[tags='slide-01']
+****

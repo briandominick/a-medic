@@ -1,0 +1,6 @@
+= Action Medical Intro
+
+.Slide
+****
+include::{slidesdir}/intro-action-medical.adoc[tags='slide-01']
+****

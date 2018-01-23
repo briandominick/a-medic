@@ -1,0 +1,6 @@
+= Diabetic Emergencies
+
+.Slide
+****
+include::{slidesdir}/diabetic-emergencies.adoc[tags='slide-01']
+****

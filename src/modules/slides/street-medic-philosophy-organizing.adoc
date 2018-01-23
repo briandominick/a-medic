@@ -1,0 +1,61 @@
+= Street Medicking
+// tag::slide-1[]
+Principles of action-medical patient care::
+
+. *First do no harm.* +
+Stick to what you know.
+
+. *Treat everyone in need, in order of criticality.* +
+Perform unbiased triage, with two exceptions:
++
+[lowerroman]
+.. Treat other medics first if they can be returned to duty.
+.. Do not treat anyone who will harm others (see first point).
+
+. *Patients are our comrades.* +
+Treat every patient the way you'd want a loved one cared for.
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Principles of action-medical patient care::
++
+[start=4]
+. *Spread calm and confidence.* +
+Perhaps short of actual cheer leading, do a little cheer leading.
+
+. *Document, debrief, analyze.* +
+Give back to the community by keeping track of what you do and how it works.
+
+. *Honest evaluation of self and fellow medics.* +
+Offer feedback and accept constructive criticism gracefully.
+
+. *Commit to continuing education.* +
+Keep your skills fresh through training, and hit the streets with experienced medics.
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Respond during local/regional crises::
+
+* When the next disaster happens, get in touch with local action-medical activists.
+* Respect local leaders and organizations first, as well as experienced medical organizers, then plug in as requested.
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Remote solidarity during crises::
+
+* Help with communications/dispatch when a neighboring medic group is operating in chaotic conditions.
+* Organize mutual aid logistics:
+** resupply
+** transport
+* Raise funds.
+// end::slide-4[]
+
+// tag::slide-4[]
+
+// end::slide-4[]

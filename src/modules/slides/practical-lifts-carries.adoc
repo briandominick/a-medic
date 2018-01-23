@@ -1,0 +1,29 @@
+= Practical: Lifts & Carries
+// tag::slide-1[]
+. Count off into groups of *6*.
+. Practice the following maneuvers as demonstrated:
+** 2-person assist (as trios)
+** 1-person assist (as pairs)
+** seat carries (as pairs)
+*** palms over forearms
+*** palms over elbows
+** 7-person C-spine carry
+*** carry instructors/assistants!
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Surprise challenge!::
+
+_Quick! Someone organize your group to protect your last patient from a chaotic crowd!_
+
+// end::slide-2[]
+
+// tag::slide-3[]
+
+// end::slide-3[]
+
+// tag::slide-4[]
+
+// end::slide-4[]

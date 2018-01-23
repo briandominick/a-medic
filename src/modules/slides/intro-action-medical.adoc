@@ -1,0 +1,44 @@
+= Action Medical Intro
+// tag::slide-1[]
+What is action medical?::
+
+An unconventional set of loose _protocols_ and _affiliations_ by which volunteer medical activists support social movements and communities in struggle.
+
+* It's not an _organization_.
+* It's not much of a _movement_ itself.
+* Perhaps it's a _collective mindset_ or _unified approach_?
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Roles in action medical::
+
+street medics:::
+First aiders who patrol in teams at planned actions, providing care to "anyone in need".
+
+embedded medics:::
+First aiders who operate within an existing organization, who may or may not treat non-members. (a.k.a., “affinity group medics” or “medical monitors”)
+
+action clinicians:::
+Medics who hang tight in a removed/protected facility, typically able to provide more advanced care, privacy, and security than street medics.
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Roles in action medical::
+
+community medics:::
+The true badasses who work in communities when crowds and cameras are nowhere to be found.
+
+infrastructure/support:::
+All the people and orgs that support us as we train and operate. Not everybody has to be willing to deal with blood!
+
+// end::slide-3[]
+
+// tag::slide-4[]
+
+// end::slide-4[]

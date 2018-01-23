@@ -1,0 +1,6 @@
+= Mental Status
+
+.Slide
+****
+include::{slidesdir}/mental-status.adoc[tags='slide-01']
+****

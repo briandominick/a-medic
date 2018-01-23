@@ -1,0 +1,634 @@
+= 20-Hour Street Medic Course
+
+:backend: deckjs
+:deckjs_theme: swiss
+:deckjs_transition: fade
+:customcss: theme/css/asciidoctor.css
+:stylesdir: theme/css/
+:stylesheet: asciidoctor.css
+:imagesdir: assets/images
+:leveloffset: 1
+:icons: font
+:iconfont-cdn: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.1.0/css/font-awesome.min.css
+:split:
+
+:duration: 10
+:starttime: 6:10 PM
+:endtime: 6:20 PM
+:instructors: Miriam/Brian
+:module: Training Welcome
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/intro-welcome.adoc[]
+
+:duration: 25
+:starttime: 6:20 PM
+:endtime: 6:45 PM
+:instructors: Miriam/Brian
+:module: People Intro
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/intro-people.adoc[]
+
+:duration: 10
+:starttime: 6:45 PM
+:endtime: 6:55 PM
+:instructors: Miriam
+:module: Action Medical Intro
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/intro-action-medical.adoc[]
+
+:duration: 10
+:starttime: 6:55 PM
+:endtime: 7:05 PM
+:instructors: Diana
+:module: First Aid Intro
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/intro-first-aid.adoc[]
+
+:duration: 15
+:starttime: 7:05 PM
+:endtime: 7:20 PM
+:instructors: Miriam
+:module: Street Medic Ops Intro
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/street-medic-ops-intro.adoc[]
+
+:duration: 15
+:starttime: 7:20 PM
+:endtime: 7:35 PM
+:instructors: Miriam
+:module: Scene Assessment
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/scene-assessment.adoc[]
+
+:duration: 15
+:starttime: 7:35 PM
+:endtime: 7:50 PM
+:instructors: 
+:module: Practical: Scene Assessment
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/practical-scene-assessment.adoc[]
+
+:duration: 10
+:starttime: 7:50 PM
+:endtime: 8:00 PM
+:instructors: 
+:module: Break
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/break.adoc[]
+
+:duration: 15
+:starttime: 8:00 PM
+:endtime: 8:15 PM
+:instructors: Diana
+:module: Consent
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/consent.adoc[]
+
+:duration: 10
+:starttime: 8:15 PM
+:endtime: 8:25 PM
+:instructors: 
+:module: Practical: Consent
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/practical-consent.adoc[]
+
+:duration: 5
+:starttime: 8:25 PM
+:endtime: 8:30 PM
+:instructors: Janet
+:module: Body Substance Isolation
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/body-substance-isolation.adoc[]
+
+:duration: 5
+:starttime: 8:30 PM
+:endtime: 8:35 PM
+:instructors: 
+:module: Practical: BSI
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/practical-bsi.adoc[]
+
+:duration: 10
+:starttime: 8:35 PM
+:endtime: 8:45 PM
+:instructors: Brian
+:module: Initial Assessment Intro
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/ia-initial-assessment-intro.adoc[]
+
+:duration: 10
+:starttime: 8:45 PM
+:endtime: 8:55 PM
+:instructors: Diana
+:module: IA Mechanism of Injury
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/ia-mechanism-of-injury.adoc[]
+
+:duration: 15
+:starttime: 8:55 PM
+:endtime: 9:10 PM
+:instructors: Diana
+:module: Practical: C-Spine
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/practical-c-spine.adoc[]
+
+:duration: 10
+:starttime: 9:10 PM
+:endtime: 9:20 PM
+:instructors: Janet
+:module: IA Mental Status
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/ia-mental-status.adoc[]
+
+:duration: 15
+:starttime: 9:20 PM
+:endtime: 9:35 PM
+:instructors: 
+:module: Practical: Mental Status
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/practical-mental-status.adoc[]
+
+:duration: 15
+:starttime: 9:35 PM
+:endtime: 9:50 PM
+:instructors: Miriam
+:module: Jail & Jail Support
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/jail-jail-support.adoc[]
+
+:duration: 10
+:starttime: 9:50 PM
+:endtime: 10:00 PM
+:instructors: Miriam/Brian
+:module: Day 1 Wrapup
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/day-1-wrapup.adoc[]
+
+:duration: 15
+:starttime: 9:15 AM
+:endtime: 9:30 AM
+:instructors: Miriam/Brian
+:module: Day 2 Opening
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/day-2-opening.adoc[]
+
+:duration: 25
+:starttime: 9:30 AM
+:endtime: 9:55 AM
+:instructors: Kenny
+:module: IA Airway
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/ia-airway.adoc[]
+
+:duration: 10
+:starttime: 9:55 AM
+:endtime: 10:05 AM
+:instructors: Kenny
+:module: IA Breathing
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/ia-breathing.adoc[]
+
+:duration: 20
+:starttime: 10:05 AM
+:endtime: 10:25 AM
+:instructors: Diana
+:module: Practical: Airway & Breathing Check
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/practical-airway-breathing-check.adoc[]
+
+:duration: 15
+:starttime: 10:25 AM
+:endtime: 10:40 AM
+:instructors: 
+:module: Break
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/break.adoc[]
+
+:duration: 40
+:starttime: 10:40 AM
+:endtime: 11:20 AM
+:instructors: Kenny
+:module: IA Circulation
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/ia-circulation.adoc[]
+
+:duration: 10
+:starttime: 11:20 AM
+:endtime: 11:30 AM
+:instructors: Brian
+:module: IA Disability & Environment
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/ia-disability-environment.adoc[]
+
+:duration: 20
+:starttime: 11:30 AM
+:endtime: 11:50 AM
+:instructors: Brian
+:module: Practical: Lifts & Carries
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/practical-lifts-carries.adoc[]
+
+:duration: 50
+:starttime: 11:50 AM
+:endtime: 12:40 PM
+:instructors: 
+:module: Break - Lunch
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/break.adoc[]
+
+:duration: 25
+:starttime: 12:40 PM
+:endtime: 1:05 PM
+:instructors: Kenny
+:module: Secondary Assessment
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/secondary-assessment.adoc[]
+
+:duration: 40
+:starttime: 1:05 PM
+:endtime: 1:45 PM
+:instructors: Miriam/Brian
+:module: Scenario (Assessment Posts)
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/scenario-assessment-posts.adoc[]
+
+:duration: 30
+:starttime: 1:45 PM
+:endtime: 2:15 PM
+:instructors: Mel
+:module: Bleeding & Shock
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/bleeding-shock.adoc[]
+
+:duration: 20
+:starttime: 2:15 PM
+:endtime: 2:35 PM
+:instructors: 
+:module: Practical: Bleeding & Shock
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/practical-bleeding-shock.adoc[]
+
+:duration: 20
+:starttime: 2:35 PM
+:endtime: 2:55 PM
+:instructors: Miriam
+:module: Soft Tissue Injuries
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/injuries-soft-tissue.adoc[]
+
+:duration: 15
+:starttime: 2:55 PM
+:endtime: 3:10 PM
+:instructors: Diana
+:module: Head Injuries
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/injuries-head.adoc[]
+
+:duration: 10
+:starttime: 3:10 PM
+:endtime: 3:20 PM
+:instructors: 
+:module: Break
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/break.adoc[]
+
+:duration: 10
+:starttime: 3:20 PM
+:endtime: 3:30 PM
+:instructors: Diana
+:module: Hot Weather Ailments
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/weather-ailments-hot.adoc[]
+
+:duration: 10
+:starttime: 3:30 PM
+:endtime: 3:40 PM
+:instructors: Diana
+:module: Cold Weather Ailments
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/weather-ailments-cold.adoc[]
+
+:duration: 5
+:starttime: 3:40 PM
+:endtime: 3:45 PM
+:instructors: 
+:module: Break
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/break.adoc[]
+
+:duration: 40
+:starttime: 3:45 PM
+:endtime: 4:25 PM
+:instructors: 
+:module: Scenario (Aftermath Round Robin)
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/scenario-mass-casualties.adoc[]
+
+:duration: 45
+:starttime: 4:25 PM
+:endtime: 5:10 PM
+:instructors: 
+:module: Musculoskeletal Injuries
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/injuries-musculoskeletal.adoc[]
+
+:duration: 20
+:starttime: 5:10 PM
+:endtime: 5:30 PM
+:instructors: 
+:module: Practical: Basic Splinting
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/practical-splinting-basic.adoc[]
+
+:duration: 25
+:starttime: 5:30 PM
+:endtime: 5:55 PM
+:instructors: Daphne/Brian
+:module: Police Tactics & Weapons
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/police-tactics-weapons.adoc[]
+
+:duration: 15
+:starttime: 5:55 PM
+:endtime: 6:10 PM
+:instructors: Daphne
+:module: Chemical Weapons
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/chemical-weapons.adoc[]
+
+:duration: 30
+:starttime: 6:10 PM
+:endtime: 6:40 PM
+:instructors: 
+:module: Practical: Eye Flush
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/practical-eye-flush.adoc[]
+
+:duration: 15
+:starttime: 6:40 PM
+:endtime: 6:55 PM
+:instructors: 
+:module: Day 2 Wrapup
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/day-2-wrapup.adoc[]
+
+:duration: 5
+:starttime: 1:00 PM
+:endtime: 1:05 PM
+:instructors: 
+:module: Day 3 Opening
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/day-3-opening.adoc[]
+
+:duration: 15
+:starttime: 1:00 PM
+:endtime: 1:15 PM
+:instructors: Brian
+:module: Street Medic Ops (Advanced)
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/street-medic-ops-advanced.adoc[]
+
+:duration: 60
+:starttime: 1:05 PM
+:endtime: 2:05 PM
+:instructors: Brian
+:module: Special Injuries
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/injuries-special.adoc[]
+
+:duration: 10
+:starttime: 1:15 PM
+:endtime: 1:25 PM
+:instructors: Brian
+:module: Mass Casualty Incidents
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/mci.adoc[]
+
+:duration: 40
+:starttime: 2:05 PM
+:endtime: 2:45 PM
+:instructors: 
+:module: Scenario (Chem Weapons)
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/scenario-chem-weapons.adoc[]
+
+:duration: 20
+:starttime: 2:45 PM
+:endtime: 3:05 PM
+:instructors: 
+:module: Break
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/break.adoc[]
+
+:duration: 15
+:starttime: 3:05 PM
+:endtime: 3:20 PM
+:instructors: 
+:module: Respiratory Emergencies
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/medical-respiratory.adoc[]
+
+:duration: 20
+:starttime: 3:20 PM
+:endtime: 3:40 PM
+:instructors: Cindy/Brian
+:module: Fainting & Seizures
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/medical-fainting-seizures.adoc[]
+
+:duration: 10
+:starttime: 3:40 PM
+:endtime: 3:50 PM
+:instructors: Janet
+:module: Diabetic Emergencies
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/medical-diabetic.adoc[]
+
+:duration: 10
+:starttime: 3:50 PM
+:endtime: 4:00 PM
+:instructors: Brian
+:module: Street Medic Philosophy & Organizing
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/street-medic-philosophy-organizing.adoc[]
+
+:duration: 10
+:starttime: 4:00 PM
+:endtime: 4:10 PM
+:instructors: NYCAM
+:module: Local Street Medic Organizing
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/street-medic-organizing-local.adoc[]
+
+:duration: 10
+:starttime: 4:10 PM
+:endtime: 4:20 PM
+:instructors: 
+:module: Street Medic Mental Health
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/street-medic-mental-health.adoc[]
+
+:duration: 10
+:starttime: 4:20 PM
+:endtime: 4:30 PM
+:instructors: Brian
+:module: Street Medic Gear
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/street-medic-gear.adoc[]
+
+:duration: 40
+:starttime: 4:30 PM
+:endtime: 5:10 PM
+:instructors: 
+:module: Break - Light Meal
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/break.adoc[]
+
+:duration: 40
+:starttime: 5:10 PM
+:endtime: 5:50 PM
+:instructors: 
+:module: Scenario (Wake Up)
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/scenario-wake-up.adoc[]
+
+:duration: 40
+:starttime: 5:50 PM
+:endtime: 6:30 PM
+:instructors: 
+:module: Scenario (Final Event)
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/scenario-final-battle.adoc[]
+
+:duration: 15
+:starttime: 6:30 PM
+:endtime: 6:45 PM
+:instructors: Miriam/Brian
+:module: Day 3 Wrapup
+ifdef::module-tables[]
+include::modules/includes/times-table.adoc[]
+endif::[]
+include::modules/slides/day-3-wrapup.adoc[]
+

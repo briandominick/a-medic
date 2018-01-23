@@ -1,0 +1,63 @@
+= Initial Assessment Intro
+// tag::slide-1[]
+Purpose of initial assessment::
+To identify life-threatening or potential life-threatening conditions.
+
+Initial assessment is a protocol::
+* We perform it in a specific order.
+* We do _not_ skip steps.
+* We only interrupt it to perform _life-saving interventions_.
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Red flags::
+
+* The initial assessment is a search for red flags: indicators of _potential life-threatening conditions_.
+* As soon as you find a red flag, you'll need to call for backup.
+
+[NOTE.mini]
+There are lots of gray areas in first aid. Street medics tend not to rule conditions out. If it _could be_ a red flag, it's a red flag.
+
+<<<
+
+[IMPORTANT.red]
+In this presentation, *red flags* indicate absolute conditions in which to activate emergency response, whether this is your first course or you're an experienced emergency physician.
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+DEMO: IA Run-through::
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+Tips for _learning_ initial assessments::
+
+* Initial assessment is probably the hardest skill medics perform.
+* You will screw up more than you get right at first.
+* It can be harder in trainings than IRL.
+* Ask your partner for help if you get stuck.
+* Make your mistakes in settings like this.
+
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Tips for _performing_ initial assessments::
+
+* It's unintuitive, but _go slow_.
+* Vocalize steps as you go.
+* Only stop for _life-saving interventions_.
+// end::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+include::../includes/ia-overview.adoc[]
+// end::slide-6[]

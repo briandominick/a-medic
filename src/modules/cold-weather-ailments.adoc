@@ -1,0 +1,6 @@
+= Cold Weather Ailments
+
+.Slide
+****
+include::{slidesdir}/cold-weather-ailments.adoc[tags='slide-01']
+****

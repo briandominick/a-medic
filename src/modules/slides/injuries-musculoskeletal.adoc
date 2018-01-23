@@ -1,0 +1,77 @@
+= Musculoskeletal Injuries
+// tag::slide-1[]
+Injuries to bones, muscles, and the stuff holding it all together, most especially:
+
+* breaks (bone fractures)
+* sprains (injury to the ligaments between bones)
+* strains (injury to muscles and/or tendons)
+* dislocations (dislodgment of long bone from joint)
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Differentiating between breaks and sprains::
+
+Except in cases of obvious factures (deformity/exposed bone), don't bother diagnosing -- we treat them all the same.
+
+[TIP]
+Only an X-ray can rule out fracture, and it's never worth risking.
+Always refer what you think are sprains for immediate follow-up care.
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Treatment is the same for all::
+
+. Examine the site.
+. Check pulses/perfusion (compare to opposite side).
+. Treat any wounds at the site.
+. Treat with RICE.
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+R I C E::
+
+[horizontal]
+R::: rest
+I::: ice
+C::: compression
+E::: elevation
+
+* RICE treats pain, prevents exacerbation, and restricts swelling.
+
+* *Rest* includes immobilization and protection of the injury site.
+
+* *Ice* = 20 minutes on, 20 minutes off.
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Principles for immobilizing musculoskeletal injuries::
+
+* For long bones, immobilize at least the joints “above and below” the injured bone.
+
+* For joints, immobilize the long bones connected to the joint.
+
+* Protect the injury site.
+
+* Check perfusion before wrapping/splinting.
+// end::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+Dislocations in the field::
+
+[IMPORTANT.black.mini]
+If you have not been specifically trained to treat a specific type of dislocation, do not attempt to relocate a dislocated bone.
+
+* Treat with *RICE* and refer to ED or urgent care.
+// end::slide-6[]

@@ -1,0 +1,6 @@
+= Practical: Basic Splinting
+
+.Slide
+****
+include::{slidesdir}/practical-scene-assessment.adoc[tags='slide-01']
+****

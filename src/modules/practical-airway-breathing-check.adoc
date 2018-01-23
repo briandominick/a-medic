@@ -1,0 +1,6 @@
+= Practical: Airway & Breathing Check
+
+.Slide
+****
+include::{slidesdir}/practical-airway-breathing-check.adoc[tags='slide-01']
+****

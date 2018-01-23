@@ -1,0 +1,43 @@
+= Street Medic Mental Health
+
+// tag::slide-1[]
+Address PTSD causes in yourself and fellow medics.::
+
+Street medics have a responsibility to take care of their mental health so they may continue to provide care to others.
++
+There is no silver-bullet method for defeating PTSD before it sets in, but for most people ignoring trauma and pretending “everything is okay” is not optimal.
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Rule of thumb on post-traumatic mental health::
+
+* If you feel eager to express yourself after a traumatic experience, find a safe and able person or group to whom you can talk, as soon as possible.
+
+* If you are terrified to relive a traumatic experience or do not know what to do, don't force yourself to talk.
+
+* Do make a point to tell a trusted friend to help you seek a suitable course of care soon.
+
+[IMPORTANT.mini.black]
+There is little evidence that early “debriefing” is the right solution for most people immediately after experiencing/witnessing a critical incident.
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+[IMPORTANT.black.mini]
+Do not burden anyone you're not fully confident is happy to help you process traumatic incidents.
+
+[IMPORTANT.red.mini]
+Do not be so afraid of creating a burden that you don't speak up when in need.
+
+[TIP.mini]
+Other street medics will at least help you get the resources you need.
+
+[IMPORTANT.black.mini]
+Help other medics who reach out in need of resources.
+
+// end::slide-3[]

@@ -1,0 +1,193 @@
+= Practical: Airway & Breathing Check
+// tag::slide-1[]
+DEMO: Basic walkthrough (so far)::
+
+[%step]
+. Verify *scene safety*.
+[%step]
+* *S T O P*
+[%step]
+* The scene is safe.
+[%step]
+. Consider *MOI*.
+[%step]
+* *C-spine*?
+[%step]
+** Negative
+[%step]
+. Introduce yourself, seek *consent*.
+
+[right]#(1/2)#
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+DEMO: Basic walkthrough (so far)::
+
+[%step]
+[start=4]
+. Assess *mental status*.
+[%step]
+* A&Ox3?
+[%step]
+** Yes
+[%step]
+. *Airway check*
+[%step]
+** They're talking, so their airway is open.
+** No MOI for compromise.
+[%step]
+. *Breathing check*
+[%step]
+** They're breathing fine.
+
+[right]#(2/2)#
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+DEMO: Unresponsive patient::
+[%step]
+. Verify *scene safety*.
+[%step]
+* *S T O P*
+[%step]
+* The scene is safe.
+[%step]
+. Consider *MOI*.
+[%step]
+* *C-spine*?
+[%step]
+** Negative
+[%step]
+. Introduce yourself, get *consent*.
+** The patient does not respond.
+
+[right]#(1/3)#
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+DEMO: Unresponsive patient::
+
+[start=4]
+. Assess *mental status*.
+[%step]
+* A&Ox3?
+[%step]
+** No icon:flag[role=red]
+[%step]
+* A V P U
+[%step]
+** Unresponsive icon:flag[role=red]
+
+[right]#(2/3)#
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+DEMO: Unresponsive patient::
+
+[start=5]
+. *Airway check*
+[%step]
+* Are they breathing?
+[%step]
+** No icon:flag[role=red]
+[%step]
+* *Intervention:* head-tilt, chin-lift
+[%step]
+** The patient breathes spontaneously!
+** Great job!
+[%step]
+. *Breathing check*
+[%step]
+** They're breathing fine.
+
+[right]#(3/3)#
+// end::slide-5[]
+
+<<<
+
+// tag::slide-6[]
+CHALLENGE: Unresponsive patient::
+
+Go through the last exercise with a partner.
++
+[%step]
+--
+Cheat sheet:::
+. *S T O P* -- Safe
+. MOI -- “They just collapsed!”
+. Consent -- No response, not alert
+. Mental status -- A V P U?
+. Airway -- They're barely breathing!
+** intervene?
+. Breathing -- Breathes OK after adjustment
+--
+// end::slide-6[]
+
+<<<
+
+// tag::slide-7[]
+Group Review::
+
+Questions?::
+
+[%step]
+* Why use HTCL maneuver instead of just rolling the patient into recovery?
+[%step]
+** We haven't finished assessment yet.
+
+[%step]
+* How would we have opened the airway if we suspected a C-spine injury?
+[%step]
+** Use the jaw-thrust maneuver.
+
+// end::slide-7[]
+
+<<<
+
+// tag::slide-8[]
+BONUS CHALLENGE: Sucker punched::
+
+Patient found standing, hands protecting injured side of face.
+
+[%step]
+--
+Cheat sheet:::
+. *S T O P* -- Safe enough
+. MOI -- Hit in face (no C-spine indicated)
+. Consent -- Yes!
+. Mental status -- They can't speak properly.
+. Airway -- They need to spit out some teeth.
+** intervene? (Tell them to spit out their teeth)
+. Breathing -- Breathing OK.
+. Return to *mental status* -- They are A&Ox3.
+--
+// end::slide-8[]
+
+<<<
+
+// tag::slide-9[]
+Group Review::
+
+Questions?::
+
+[%step]
+* Did we need to activate emergency response during that challenge?
+[%step]
+** There were actually *no red flags*.
+
+[%step]
+* What red flags might we see with such an injury?
+[%step]
+** Actual airway _obstruction_ (this was _compromise_)
+** Loss of consciousness or altered mental status
+
+// end::slide-9[]

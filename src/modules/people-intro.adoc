@@ -1,0 +1,6 @@
+= People Intro
+
+.Slide
+****
+include::{slidesdir}/people-intro.adoc[tags='slide-01']
+****

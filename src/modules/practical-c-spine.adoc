@@ -1,0 +1,6 @@
+= Practical: C-Spine
+
+.Slide
+****
+include::{slidesdir}/practical-c-spine.adoc[tags='slide-01']
+****

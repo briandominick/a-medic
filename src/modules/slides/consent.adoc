@@ -1,0 +1,50 @@
+= Consent
+// tag::slide-1[]
+Street medics get consent for _everything_.
+
+How we get consent::
+
+* Approach calmly and cautiously.
+* Introduce yourself confidently and swiftly, e.g.
+
+[CAUTION.mini]
+Hello, my name is Inigo Montoya and I know first aid. I can help you. Would that be okay?
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+[NOTE]
+What are reasons people sometimes decline medical care at protests or other street situations?
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Common reasons for refusing care::
+
+* caregiver's perceived gender
+* worried medics are cops
+* financial concerns
+* modesty / fear of exposure
+* fear of attracting attention
+* doubts injury is "that bad"
+* someone else must be worse -- help _them_
+* fear of contagion (you or them)
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+What's a street medic to do?::
+
+* Be persistent but not pushy.
+* Validate and address the patient's concerns, e.g.
+** “I can understand how this might be scary.”
+** “Would you prefer if my partner takes care of you and I mostly keep watch?”
+** Establish privacy barriers.
+* Innovate!
+* Always take “No” for an answer.
+// end::slide-4[]

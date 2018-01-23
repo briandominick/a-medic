@@ -1,0 +1,6 @@
+= Day 1 Wrapup
+
+.Slide
+****
+include::{slidesdir}/day-1-wrapup.adoc[tags='slide-01']
+****

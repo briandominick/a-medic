@@ -1,0 +1,69 @@
+= Breathing
+// tag::slide-1[]
+MOI for respiratory distress::
+[%step]
+--
+* exertion
+* aerosolized chemicals
+* chronic condition, e.g.
+** asthma
+** COPD
+--
+
+// end::slide-1[]
+
+<<<
+
+// tag::slide-2[]
+Signs of respiratory distress::
+
+[%step]
+--
+* shallow breathing
+* rapid breathing
+* slow breathing
+* unsteady breathing
+* strained breathing
+* wheezing/gasping
+--
+
+// end::slide-2[]
+
+<<<
+
+// tag::slide-3[]
+Intervention: Respiratory distress::
+
+* If chronic, do they have medicine?
+* Tripod position.
+* Breathe along with them.
+* Be calming and reassuring.
+
+// end::slide-3[]
+
+<<<
+
+// tag::slide-4[]
+[IMPORTANT.mini]
+Severe or prolonged respiratory distress are red flags!
+If the patient does not recover after 3-5 minutes, or if the distress is extraordinary, call for backup!
+
+// end::slide-4[]
+
+<<<
+
+// tag::slide-5[]
+Intervention: Respiratory arrest::
+
+* Rescue breathing.
+* Learn it in CPR course.
+* If you don't know CPR, somebody nearby does.
+* Get them to do it.
+
+// end::slide-5[]
+
+// <<<
+
+// tag::slide-6[]
+
+// tag::slide-6[]
