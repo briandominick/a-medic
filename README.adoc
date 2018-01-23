@@ -12,9 +12,14 @@ The outline is being developed as open-source content, written in a lightweight 
 This repo (link:{this_repo_web_uri}[{this_repo_web_uri}]) is the prime resource for the A-MEDIC codex.
 If you fork this repo, be sure to alter this message before republishing your changes, and prominently link back to the prime repo.
 
-== Download the Latest
+== Download the Latest Draft
 
-The latest PDF of the _complete outline_ and the _complete slide deck_ will always be available here -- no special technical skills or software necessary.
+The most recent PDF of the *_outline_* and the most recent compiled *_slide deck_*, based on the latest committed codebase changes, will always be link:https://github.com/briandominick/a-medic/releases[available here] -- no special technical skills or software necessary.
+Just download and unzip to find the slideshow and PDFs.
+
+[NOTE]
+.Who is this for?
+The published materials in this project are for qualified street first aid instructors to use during official trainings.
 
 == Build Your Own
 
@@ -23,6 +28,7 @@ You are welcome to modify the source code however you see fit (for content, styl
 You may then rebuild the PDF and HTML output to reflect your changes.
 
 You can even distribute your output however you see fit, so long as you continue to make it freely available under the same license and always link back to this origin.
+
 
 === Build Instructions
 
