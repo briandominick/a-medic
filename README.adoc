@@ -73,7 +73,7 @@ Bundler is a package manager for Ruby gems; it will ensure you always have the r
 . Build the PDFs.
 +
 ----
-bundle exec liquidoc -c _configs/build-course.yml
+bundle exec liquidoc -c _config/build-course.yml
 ----
 +
 This command actually <1> migrates files to their proper locations in the `build/` directory, <2> generates the AsciiDoc index files for further operations, and then <3> calls Asciidoctor to render the PDFs.
