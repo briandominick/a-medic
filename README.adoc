@@ -133,7 +133,7 @@ You can edit files in the GitHub interface or clone your forked repo locally and
 
 (Guide coming soon.)
 
-You are also welcome to use this framework and system to create a wholly different codex, even on a completely unrelated structure.
+You are also welcome to use this framework and system to create a wholly different codex, even on a completely unrelated subject.
 A boilerplate/quickstart version of the framework will be available when some of the kinks are worked out of this implementation.
 
 == Contribute & Stay in Sync
