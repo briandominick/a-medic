@@ -4,6 +4,12 @@
   options:
     inclusive: false
 - action: migrate
+  source: LICENSE.md
+  target: build
+- action: migrate
+  source: NOTICE.adoc
+  target: build
+- action: migrate
   source: lib/deck.js
   target: build
 - action: parse
