@@ -10,6 +10,9 @@
   source: NOTICE.adoc
   target: build
 - action: migrate
+  source: README
+  target: build
+- action: migrate
   source: lib/deck.js
   target: build
 - action: parse
@@ -25,7 +28,7 @@
   source: build/index-outline.adoc
   data: _config/asciidoctor.yml
   builds:
-    - output: build/index-outline.pdf
+    - output: build/outline.pdf
       theme: theme/pdf-theme.yml
 - action: render
   source: build/index-handbook.adoc
