@@ -1,16 +1,24 @@
 = A-MEDIC
-:this_repo_web_uri: http://github.com/briandominick/a-medic
-:this_repo_git_uri: git@github.com:briandominick/a-medic.git
+:project_name_short: A-MEDIC
+:project_name_full: Action-Medical Editable Distributed Instructional Codex
+:repo_web_uri: http://github.com/briandominick/a-medic
+:repo_git_uri: git@github.com:briandominick/a-medic.git
 
-The *Action-Medical Editable Distributed Instructional Codex* is an open source of material for teaching and learning the various aspects of acton medical skills, philosophy, and organizing strategies.
+*{project_name_full}* is an open source repository of material for teaching and learning the various aspects of acton medical skills, philosophy, and organizing strategies.
+Text content is handled as collaboratively editable source, which can be compiled into resources such as student handbooks, teacher's guides, and even slide presentations with embedded multimedia.
 
 At this time, The repository contains a general outline and slide presentation for a 20-hour street medic training course.
-The outline is being developed as open-source content, written in a lightweight markup language (AsciiDoc) in a GitHub repository, so it may be forked and modified for adoption and use by others.
+The outline is being developed as open-source content, written in an easy-to-learn lightweight markup format (link:http://asciidoctor.org[AsciiDoc]) in a link:https://cswsolutions.com/2014/03/11/git-for-non-developers/[Git], so it may be forked and modified for adoption and use by others.
 (See <<fork-your-own>> for more info.)
 
 [NOTE]
-This repo (link:{this_repo_web_uri}[{this_repo_web_uri}]) is the prime resource for the A-MEDIC codex.
+This repo (link:{repo_web_uri}[{repo_web_uri}]) is the prime resource for the {project_name_short} codex.
 If you fork this repo, be sure to alter this message before republishing your changes, and prominently link back to the prime repo.
+
+[TIP]
+.Here's your chance!
+This is an ideal project for non-engineers to learn basic Git skills!
+Consider starting here!
 
 == Download the Latest Draft
 
@@ -20,14 +28,17 @@ Just download and unzip to find the slideshow and PDFs.
 [NOTE]
 .Who is this for?
 The published materials in this project are for qualified street first aid instructors to use during official trainings.
+Without editing the source and recompiling the final files, these published artifacts will have to be used as-is.
 
-== Build Your Own
+== Edit & Build Your Own
 
-This repository contains a text outline for a 20-hour training, as well as the content for an accompanying slide presentation, which are all displayed on and distributed via a website also sourced in this repo.
-You are welcome to modify the source code however you see fit (for content, style, or both).
-You may then rebuild the PDF and HTML output to reflect your changes.
+You are welcome to modify the source for this course material however you see fit (for content, style, or both).
 
-You can even distribute your output however you see fit, so long as you continue to make it freely available under the same license and always link back to this origin.
+You will then need to rebuild the PDF and HTML output to reflect your changes.
+This action is the build process.
+If you're not a techie, it's a little tricky the first time, but you can doit.
+
+Then you can even distribute your output however you see fit, so long as you continue to make it freely available under the same license and always link back to this origin.
 
 This codex depends on some awesome free and open source software (FOSS), including link:http://asciidoctor.org/[Asciidoctor], link:http://prawnpdf.org/api-docs/2.0/[Prawn], and link:http://imakewebthings.com/deck.js/[Deck.js].
 It also uses my link:https://github.com/briandominick/liquidoc-gem[LiquiDoc] utility.
@@ -114,9 +125,9 @@ This is the file that is cited in the first `parse` action of the `_config/build
 . Rebuild the training materials (including slideshow) using the `liquidoc` and `asciidoctor` commands.
 
 [[fork-your-own]]
-== Fork Your Own A-MEDIC
+== Fork Your Own {project_name_short}
 
-Making your own copy of A-MEDIC is easy.
+Making your own copy of {project_name_short} is easy.
 Just fork it on GitHub so you have a full repository copy in your account.
 You can edit files in the GitHub interface or clone your forked repo locally and edit the files with your favorite text/code editor.
 
@@ -153,8 +164,8 @@ DO NOT USE this information as source material for first aid instruction unless 
 [NOTE]
 This content may have been altered from its course material.
 The original authors do not endorse forked editions of this course, and we encourage all who modify this material to be responsible for the alterations they make.
-The canonical material is maintained at link:http://github.com/briandominick/a-medic[http://github.com/briandominick/a-medic].
+The canonical material is maintained at link:{repo_web_uri}[{repo_web_uri}].
 
 === License
 
-All of the content herein is covered by a link:https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons ShareAlike 4.0] license, but we urge professional caution when using these materials.
+All of the content herein is covered by a link:https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons ShareAlike 4.0] license or is shared under Fair Use provisions, but we urge professional caution when using these materials.
