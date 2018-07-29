@@ -4,15 +4,24 @@
 :repo_web_uri: http://github.com/briandominick/a-medic
 :repo_git_uri: git@github.com:briandominick/a-medic.git
 
-*{project_name_full}* is an open source repository of material for teaching and learning the various aspects of acton medical skills, philosophy, and organizing strategies.
+*{project_name_full}* is an open source repository of material for teaching and learning the various aspects of skills, philosophy, and organizing strategies in the field of “action medical“.
+
+== Purpose
+
+The barely defined, poorly standardized community of protest first-aid activists loosely known as “action medics” has no coordinated means of “distributing” or collaborating around its nascent educational and reference documentation.
+This is a problem throughout the more formalized first aid and even professional Emergency Medical Services fields, as I understand it, and I hope to eventually contribute a free, open-source platform for managing educational material in forward thinking ways.
+For instance, facilitating various customizations per instructor or per locale, as it were, whatever the points of dirvergance.
 Text content is handled as collaboratively editable source, which can be compiled into resources such as student handbooks, teacher's guides, and even slide presentations with embedded multimedia.
 
-At this time, The repository contains a general outline and slide presentation for a 20-hour street medic training course.
-The outline is being developed as open-source content, written in an easy-to-learn lightweight markup format (link:http://asciidoctor.org[AsciiDoc]) in a link:https://cswsolutions.com/2014/03/11/git-for-non-developers/[Git], so it may be forked and modified for adoption and use by others.
+== Repository Contents
+
+At this time, the repository contains a general outline and slide presentation for a 20-hour street medic training course.
+The outline is being developed as open-source content, written in an easy-to-learn lightweight markup format (link:http://asciidoctor.org[AsciiDoc]) in a link:https://cswsolutions.com/2014/03/11/git-for-non-developers/[Git repository] for version control.
+This means it may be forked and modified for adoption and use by others.
 (See <<fork-your-own>> for more info.)
 
 [NOTE]
-This repo (link:{repo_web_uri}[{repo_web_uri}]) is the prime resource for the {project_name_short} codex.
+This repository (repo) (link:{repo_web_uri}[{repo_web_uri}]) is the prime resource for the {project_name_short} codex.
 If you fork this repo, be sure to alter this message before republishing your changes, and prominently link back to the prime repo.
 
 [TIP]
@@ -27,7 +36,9 @@ Just download and unzip to find the slideshow and PDFs.
 
 [NOTE]
 .Who is this for?
-The published materials in this project are for qualified street first aid instructors to use during official trainings.
+The published materials in this project are for _qualified street first aid instructors_ to use during _official trainings_.
+The repository files might be of interest to anyone responsible for educational content managed in Git and output as various formats.
+
 Without editing the source and recompiling the final files, these published artifacts will have to be used as-is.
 
 == Edit & Build Your Own
@@ -39,6 +50,9 @@ This action is the build process.
 If you're not a techie, it's a little tricky the first time, but you can doit.
 
 Then you can even distribute your output however you see fit, so long as you continue to make it freely available under the same license and always link back to this origin.
+
+[WARNING]
+If you are not an action-medical instructor or student involved in a particular class, you may use these materials for educational purposes, be that technical documentation tooling or street first-aid knowledge, but please attend a training by qualified educators before using the medical skills and information in these files.
 
 This codex depends on some awesome free and open source software (FOSS), including link:http://asciidoctor.org/[Asciidoctor], link:http://prawnpdf.org/api-docs/2.0/[Prawn], and link:http://imakewebthings.com/deck.js/[Deck.js].
 It also uses my link:https://github.com/briandominick/liquidoc-gem[LiquiDoc] utility.
@@ -85,7 +99,7 @@ This will be corrected when indexing can be done dynamically based on the actual
 . Run a test build of the slide deck.
 +
 ----
-bundle exec asciidoctor -T _templates/haml build/index-deck.adoc
+bundle exec asciidoctor -T _templates/haml build/index-slides.adoc
 ----
 +
 This command executes Asciidoctor with alternate parsing rules for building your deck.
@@ -146,7 +160,7 @@ Alternatively, or really simultaneously, you can *maintain an altered fork that 
 That was a mouthful; allow me to explain.
 Let's say you love this course, but you teach one module quite differently.
 The rest of your training corresponds to this outline perfectly.
-You may fork the source files, edit one file for the module in question, and then keep all the other files in sync through a manual procedure, even as you and your colleagues add and update material in the prime repo.
+You may fork the source files, edit one file for the module in question, and then keep all the other files in sync through a manual procedure, even as you and/or your colleagues add and update material in the prime repo.
 This way, when the prime repo changes, you'll be able to see the changes and accept them on a case by case basis.
 You will effectively adopt those you like while always protecting any “local” edits you've made so they don't get overwritten by the upstream source when you sync new commits.
 
@@ -161,7 +175,7 @@ Here is the legal stuff that makes it possible to share this material with you.
 *This material is expressly provided as a teaching aid and in no way should be used in the absence of qualified, first-hand instruction.*
 DO NOT USE this information as source material for first aid instruction unless you are qualified to INSTRUCT this material, or as supplementary content provided alongside a qualified course of street medic training.
 
-[NOTE]
+[WARNING]
 This content may have been altered from its course material.
 The original authors do not endorse forked editions of this course, and we encourage all who modify this material to be responsible for the alterations they make.
 The canonical material is maintained at link:{repo_web_uri}[{repo_web_uri}].
